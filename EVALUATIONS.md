@@ -79,6 +79,43 @@ A crowned skeletal lich-king figure, arms raised summoning red/blue lightning, a
 
 > **Revision note (images 2–4):** these three were initially scored down on Distinctiveness for sharing a dark-fantasy/skeletal-creature theme with each other. That was a scoring error — a recurring theme across the artist's body of work is a stylistic identity, not grounds to cap any individual piece. Rubric's Distinctiveness definition corrected above; scores here reflect each image judged on its own specific choices and execution. All three hold up independently and are re-tiered to Standout.
 
+### 5. `ChatGPT Image Jun 3, 2025, 03_54_29 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 5 |
+
+A carnivorous plant-monster: thorned, blood-red tentacle-vines coiling upward from a dark leaf-crown, each thorn beaded with glistening red dew, set in a foggy graveyard among tombstones. A genuinely distinct creature type from the bat/skeletal pieces — botanical body-horror rather than demon/undead — and the graveyard staging plus blood-dew detail implies a specific predatory function (feeding on the dead) without needing to spell it out. Near-perfect radial/spiral composition.
+
+**Verdict:** One of the strongest pieces seen so far — original creature concept, immaculate execution, and the setting does real narrative work.
+
+---
+
+### 6. `ChatGPT Image May 20, 2025, 07_56_40 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 5 |
+
+A hooded, cloaked figure leads a massive shadow-black, antlered, ember-eyed beast on a chain through a narrow rock canyon at dusk. First piece in the collection so far with a human figure in an active relationship to the monster rather than the monster alone — the leash/chain is the whole idea: it turns "scary creature" into an implied story of ownership, a pact, or control of something that shouldn't be controllable. Excellent scale contrast and atmospheric lighting.
+
+**Verdict:** The leash is doing more conceptual work than anything in the bat/skeletal cluster — this is the collection's second clear example (after #1) of a specific narrative idea, not just a well-rendered subject.
+
+---
+
+### 7. `ChatGPT Image May 24, 2025, 08_34_25 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 4 |
+
+A tarot/grimoire-plate composition titled "ASHEN DAWN": a blood-red sun rising through smoke over a burnt forest, a few branches still licked with flame, a ghostly procession of silhouetted figures in the middle distance, all inside a gold rune-inscribed double border with clean, correctly-spelled title text. A different medium simulation than the rest of the batch (etched/scratchboard-and-pencil look vs. digital painting) and a different presentation format entirely (branded card/plate with title vs. unframed scene). The legible, correctly rendered title text is also a notable technical win — AI text generation fails often enough that a clean result is worth flagging as execution quality, not just luck.
+
+**Verdict:** Opens up a second distinct "series" in the collection — worldbuilding/tarot-plate pieces — separate from the creature-portrait pieces. Strong candidate for representing that series in a shortlist.
+
 ---
 
 ## Running notes / patterns
@@ -86,3 +123,4 @@ A crowned skeletal lich-king figure, arms raised summoning red/blue lightning, a
 
 - 4 images logged. A clear early theme: **3 of the first 4 new uploads (#2, #3, #4) are dark-fantasy/gothic skeletal-or-demonic creature pieces** — bat-wings, glowing ribcages/hearts, ruined-gothic backdrops. This is noted as a recurring subject/style in the artist's work, not a competitive penalty — each of the three was judged on its own specific choices and all three hold up as Standout individually. If this theme keeps appearing at similar quality through the rest of the collection, expect the shortlist to include multiple entries from it.
 - #1 (the equestrian-portrait subversion) is still the only entry so far built around genre *subversion* specifically — the gothic-creature pieces are more "genre executed with excellence" than "genre twisted." Both are legitimate paths to Standout; noting the distinction for variety in how the final shortlist gets described, not as a ranking difference.
+- 7 images logged. Two more distinct threads have emerged: **botanical/nature-horror** (#5) and a **human-monster relationship/narrative** angle (#6), plus a wholly different **tarot/grimoire-plate presentation format** (#7, title text + rune border + alternate medium simulation). So far every image in the batch has scored Standout — this batch is confirmed to be a genuinely strong pre-curated set, consistent with the artist's note that it's their own picked favorites. Expect the tier spread to widen once less-curated/unsorted material is added.
