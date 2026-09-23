@@ -40,9 +40,47 @@ A heroic equestrian portrait (Napoleon-Crossing-the-Alps register — dramatic c
 
 **Verdict:** Strong opener — genuine concept plus genre fluency, not just a pretty render. Sets the bar for what "distinctive" looks like in this collection.
 
+### 2. `ChatGPT Image Apr 10, 2025, 01_11_25 PM.png`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 4 |
+
+Bat-winged demon/gargoyle perched on a lava-cracked cliff edge, glowing white eyes, exposed glowing-red ribcage, cracked moon overhead, distant castle spires, bats in flight. Technically excellent — coherent creature anatomy, atmospheric lighting (moon, lava glow, mist), confident painterly rendering. Concept is a fairly stock "cool dark-fantasy monster" brief with no twist beyond the design itself.
+
+**Verdict:** A genre-standard dark-fantasy creature piece executed at a high level. Craft carries it, concept doesn't add anything beyond "well-designed monster."
+
+---
+
+### 3. `ChatGPT Image Apr 21, 2025, 08_13_00 AM.png`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 4 |
+
+Emaciated bat-creature with translucent skin showing its ribcage, perched on a thorned branch, gothic castle silhouette and dead forest behind it, green ground fog. Same archetype and register as #2 (bat-demon creature design), differentiated mainly by the sickly, skin-and-bone rendering and the thorn/dead-tree staging. Excellent execution and mood.
+
+**Verdict:** Strong craft, but this is the second bat-demon-on-a-perch piece in a row — read alongside #2, it starts to look like a formula being run rather than two independent ideas.
+
+---
+
+### 4. `ChatGPT Image Apr 9, 2025, 05_53_22 AM.png`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 3 | 5 | 5 | 5 |
+
+A crowned skeletal lich-king figure, arms raised summoning red/blue lightning, a glowing heart burning inside its exposed ribcage, ghostly worshippers kneeling below amid ruins, all inside an ornate decorative arch frame. The most compositionally ambitious of the three gothic/skeletal pieces so far — the built-in frame and the crowd-of-worshippers staging give it a "shrine icon" quality the other two don't have, and the glowing heart is a specific, slightly poignant motif (something tender kept alive inside something monstrous) rather than just a monster silhouette.
+
+**Verdict:** The strongest of the three dark-fantasy/skeletal pieces in this stretch — the framing device and the heart motif give it a sliver more concept than pure creature-design. Still capped below Standout because the underlying "epic dark lich" register itself isn't new territory for the collection.
+
 ---
 
 ## Running notes / patterns
 *(updated as the collection grows)*
 
-- 1 image logged so far — too early to call clusters or repeated formulas.
+- 4 images logged. A clear early cluster: **3 of the first 4 new uploads (#2, #3, #4) are dark-fantasy/gothic skeletal-or-demonic creature pieces** — bat-wings, glowing ribcages/hearts, ruined-gothic backdrops. Execution is consistently excellent across all three, but they're competing with each other for the same "slot" in a best-of shortlist. Worth flagging now in case the rest of the batch skews the same way — if so, the shortlist will likely include only the single best of this archetype (currently #4) rather than all three, per the distinctiveness rule.
+- #1 (the equestrian-portrait subversion) remains the only entry so far with a genuine conceptual twist rather than "well-executed genre piece."
