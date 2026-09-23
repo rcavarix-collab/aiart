@@ -379,6 +379,56 @@ A three-headed hellhound (Cerberus), rotting-flesh fur, chained at the chest, mi
 
 **Verdict:** Well-crafted but working thoroughly familiar mythological ground; craft carries it to Strong, not further.
 
+### 29. `UniversalUpscaler_9d40f8c2-ec35-4251-b40d-ccd9ad15b5ec.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+An ancient, gnarled willow-like tree with a sorrowful face wept into its bark, two eyes streaming continuous tears that visibly become the only river running through an otherwise cracked, drought-dead wasteland; a storm churns in the distance, more skeletal trees scattered on the horizon. A clean, fully legible visual metaphor — grief as the last source of life in a dying land — with the tears-to-river logic rendered seamlessly rather than just implied.
+
+**Verdict:** One of the most emotionally direct pieces in the whole batch — not scary so much as sad, which is a register nothing else in the collection has hit this cleanly. Ranks with #19 and #25 for best-in-collection.
+
+---
+
+### 30. `UniversalUpscaler_9f65f7f1-e7ce-481d-8824-37d092dae450.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 5 |
+
+A colossal, root/vein-textured screaming entity rises from a mountain valley, the full moon embedded in and dripping from its chest, tendrils sweeping across a starry sky, a single tiny robed figure standing at its base for scale. The moon fused into the creature's body (rather than just floating nearby) is a specific, well-realized detail, and the lone witness figure sells the scale effectively.
+
+**Verdict:** Genuinely awe/dread-inducing scale work; part of a growing "colossal cosmic entity" register in this collection (see running notes) but strong enough on its own specific details to stand on its own.
+
+---
+
+### 31. `UniversalUpscaler_bdac0720-2ce7-44f4-8112-b5ddd23e63e9.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 2 | 5 | 5 | 4 |
+
+A bat-winged, red-eyed skeletal demon in mid-flight, glowing red ribcage, streaming spectral smoke-tendrils, a crescent-moon halo behind its head, soaring over a floating gothic spire-city lit by lava, with a small ordinary bat flying alongside for scale. Shares core DNA with #2/#3 (bat-demon, glowing ribcage) but this is a distinct generation — dynamic flight pose rather than perched, plus the spectral tendrils and floating city are new elements not seen in the earlier two.
+
+**Verdict:** Excellent execution and the most dynamic pose of the bat-demon variants, but — like #26 and #28 — it's craft without an added idea, so it settles at Strong rather than Standout.
+
+---
+
+### 32. `UniversalUpscaler_c5457f40-7dc5-4b55-bf96-107974016c96.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A toothed void — a gaping maw ringed in purple-pink light with no attached body, just trailing dark tendrils, torn into a swirling nebula. A clean single idea ("a hole in reality that eats") distinguishes it from a generic tentacle-monster, though the swirling-nebula-with-tendrils rendering approach is now a recognizable device across this artist's cosmic-horror pieces (#20, #29, this one).
+
+**Verdict:** Effective, unsettling, and conceptually tidy — held just below Standout by how much rendering vocabulary it shares with #20 and #29 specifically (not a theme overlap, a technique overlap).
+
 ---
 
 ## Running notes / patterns
@@ -393,3 +443,4 @@ A three-headed hellhound (Cerberus), rotting-flesh fur, chained at the chest, mi
 - 20 images logged. The **"cosmic eye/mandala" cluster is now confirmed as its own recurring thread** (#8, #9, #11, #20) — treated per the theme-is-not-a-penalty rule, but #20 is explicitly a recolor of an earlier piece per its own prompt text, which is the first clear case of the duplicate/derivative-handling concern the artist raised (a deliberate variant, not an accidental re-upload, but worth tracking the same way). Also: **quiet solitary-figure staging** is emerging as a small motif (#13's sailor, #18's beach walker) that reliably lifts a landscape from decorative to Standout — worth watching for as the batch continues. #19 (the invented deep-sea creature) is the strongest execution+concept combo logged so far.
 - 24 images logged, now into the `UniversalUpscaler_*` files (no descriptive filenames — checking each against prior entries for the duplicate/upscale rule as I go; none so far have matched an existing file, they read as distinct generations). #21 (wolf in sheep's clothing) joins #1 as the collection's clearest "genuine idiom/concept, played straight" pieces. #24 extends the "apocalyptic celestial body" motif already seen in #7. #23 is the first genuinely generic/forgettable entry — useful confirmation the rubric isn't just rubber-stamping everything Standout.
 - 28 images logged. **#25 confirms the "grimoire/etched-plate" series first seen in #7** — same medium simulation, and likely the current frontrunner for best-in-collection given its combination of originality, execution, and actual social commentary (technology as devouring deity). Also noting a possible emerging device: **chained/bound monsters** (#6's leashed beast, #28's chained Cerberus) — but unlike #6, #28's chain is mythologically expected rather than a fresh narrative beat, so this is flagged as a motif to watch, not assumed to be equally effective each time it recurs.
+- 32 images logged (12 of 16 `UniversalUpscaler_*` files reviewed, 4 remain). **#29 (the weeping tree) is now the top emotional-impact piece in the collection** — genuinely sad rather than scary, a register the rest of the batch hasn't hit. A **"colossal cosmic entity" register** is now clearly established (#20, #22, #24, #25, #29, #30, #32) — vast beings/voids rendered with swirling tendrils and cosmic scale; per the theme rule this isn't a penalty, but #31 and #32 specifically are being held to Strong rather than Standout because they reuse rendering *technique* (not just theme) from earlier entries in that register with less of a new idea attached. Current best-in-collection shortlist candidates so far: #19, #21, #25, #29.
