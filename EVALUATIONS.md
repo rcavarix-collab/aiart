@@ -329,6 +329,56 @@ A colossal molten, skull-shaped sun hangs over a scorched, cracked wasteland, dr
 
 **Verdict:** Visceral, immediate impact — one of the most striking single images in the batch. The skull-sun symbolism (death replacing the life-giving sun) does real thematic work.
 
+### 25. `UniversalUpscaler_5fb335c6-ec11-4310-9b12-41e5ba428970.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+A demon with a shattered-CRT skull and a server-rack crown hunches over a giant keyboard, clawed hands typing, lightning arcing from the keys into a towering dripping filing-cabinet/server altar; rows of haloed, hollow-eyed worshippers kneel nearby, and a wall of screaming faces fills the sky. A genuinely dense allegorical piece — technology/data/the algorithm as a devouring, worshipped god — executed in the same etched/scratchboard medium as #7 ("Ashen Dawn"), confirming a real "grimoire/etched-plate" series in this artist's work.
+
+**Verdict:** Likely the single strongest piece evaluated so far — matches #19's originality and adds genuine social/technological commentary most of the collection doesn't attempt. Rewards a long look; every element (halos, screaming wall, dripping server) is doing symbolic work.
+
+---
+
+### 26. `UniversalUpscaler_7790d568-da34-447a-a8a7-d5a3c778d6f1.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 2 | 5 | 5 | 4 |
+
+A feathered dragon-like creature with large curling ibex/ram horns and bat wings stands on a storm-lashed mountain cliff, rain and lightning behind it. The specific fusion of feather-texture + ram horns + wings is a distinctive creature design, but there's no narrative beyond "impressive creature in dramatic weather" — reads as strong concept-art rather than a piece with its own idea.
+
+**Verdict:** Excellent creature design and atmosphere; capped below Standout by having nothing beyond the design itself to hold onto.
+
+---
+
+### 27. `UniversalUpscaler_77b721d1-1aab-4671-906d-fd32df669acb.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 3 | 4 | 4 | 4 |
+
+An aerial view of a vast crater-like basin: red Martian-style ridged mountains ringing a turquoise lagoon dotted with perfectly circular, polka-dot-like islands, sailboats scattered across the water, all wrapped in cloud. A genuinely unusual landscape composition — the uniform circular islands give it an almost diagrammatic, otherworldly-atlas quality rather than reading as a realistic vista. Minor ding for some repetition in the ridge texture around the crater rim.
+
+**Verdict:** One of the more visually novel landscapes in the batch — doesn't resemble typical AI matte-painting output, memorable specifically because of the island shapes.
+
+---
+
+### 28. `UniversalUpscaler_87af24d0-672a-4a0a-98ce-ab58f374c310.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 4 |
+
+A three-headed hellhound (Cerberus), rotting-flesh fur, chained at the chest, mismatched glowing blue/orange eyes across its heads, zombie hands clawing up from the ground beneath it. Cerberus is an extremely well-trodden mythological subject in fantasy art, and the chain motif here reads as expected/decorative (Cerberus bound is standard iconography) rather than the specific narrative device the leash was in #6. Execution — especially the differentiated head expressions and the grasping hands at the base — is very strong.
+
+**Verdict:** Well-crafted but working thoroughly familiar mythological ground; craft carries it to Strong, not further.
+
 ---
 
 ## Running notes / patterns
@@ -342,3 +392,4 @@ A colossal molten, skull-shaped sun hangs over a scorched, cracked wasteland, dr
 - 15 images logged. The tier spread has now widened as predicted: alongside the dark-fantasy horror pieces, this artist also works confidently in **calm/meditative surrealism** (#13), **restrained realist landscape** (#14), and **traditional impressionism** (#15) — real stylistic range, not a one-note collection. The oversaturated-archetype pieces (#8–10) remain the only Solid-but-crowded/lower entries so far; everything else, across very different genres, has cleared Strong or better on its own merits.
 - 20 images logged. The **"cosmic eye/mandala" cluster is now confirmed as its own recurring thread** (#8, #9, #11, #20) — treated per the theme-is-not-a-penalty rule, but #20 is explicitly a recolor of an earlier piece per its own prompt text, which is the first clear case of the duplicate/derivative-handling concern the artist raised (a deliberate variant, not an accidental re-upload, but worth tracking the same way). Also: **quiet solitary-figure staging** is emerging as a small motif (#13's sailor, #18's beach walker) that reliably lifts a landscape from decorative to Standout — worth watching for as the batch continues. #19 (the invented deep-sea creature) is the strongest execution+concept combo logged so far.
 - 24 images logged, now into the `UniversalUpscaler_*` files (no descriptive filenames — checking each against prior entries for the duplicate/upscale rule as I go; none so far have matched an existing file, they read as distinct generations). #21 (wolf in sheep's clothing) joins #1 as the collection's clearest "genuine idiom/concept, played straight" pieces. #24 extends the "apocalyptic celestial body" motif already seen in #7. #23 is the first genuinely generic/forgettable entry — useful confirmation the rubric isn't just rubber-stamping everything Standout.
+- 28 images logged. **#25 confirms the "grimoire/etched-plate" series first seen in #7** — same medium simulation, and likely the current frontrunner for best-in-collection given its combination of originality, execution, and actual social commentary (technology as devouring deity). Also noting a possible emerging device: **chained/bound monsters** (#6's leashed beast, #28's chained Cerberus) — but unlike #6, #28's chain is mythologically expected rather than a fresh narrative beat, so this is flagged as a motif to watch, not assumed to be equally effective each time it recurs.
