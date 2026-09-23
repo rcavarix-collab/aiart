@@ -116,10 +116,62 @@ A tarot/grimoire-plate composition titled "ASHEN DAWN": a blood-red sun rising t
 
 **Verdict:** Opens up a second distinct "series" in the collection — worldbuilding/tarot-plate pieces — separate from the creature-portrait pieces. Strong candidate for representing that series in a shortlist.
 
+### 8. `DALL·E 2024-03-02 13.46.54 - ... extradimensional gemstone ....webp`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 4 | 4 | 3 |
+
+Symmetrical fractal mandala rendered as a cosmic gemstone — nested geometric petals, nebula texture, purple/gold palette. Well-balanced and detailed, but "symmetrical cosmic fractal mandala" is one of the most common archetypes in AI-generated art *generally* (not just this artist's work) — perfect radial symmetry is compositionally easy for these models to produce and heavily overrepresented across the whole ecosystem. See distinctiveness note below.
+
+**Verdict:** Competent, decorative, pretty — but doesn't do anything the genre hasn't done thousands of times over.
+
+---
+
+### 9. `DALL·E 2024-03-16 01.51.36 - ... fantastical space creature's eye ....webp`
+**Tier: Solid-but-crowded**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 2 | 2 | 4 | 4 | 3 |
+
+Hyperrealistic macro shot of an alien eye ringed by glowing, frilled organic tissue against a nebula backdrop. Iris rendering and reflections are well done, but the surrounding ridge texture repeats fairly mechanically around the eye (a mild AI-generation tell), and "hyperreal macro alien/creature eye" is arguably *the* single most oversaturated prompt archetype in AI art circles.
+
+**Verdict:** Solid technical execution in one of the most crowded genres that exists in AI art. Unlikely to read as distinctive to anyone who has seen more than a handful of AI pieces.
+
+---
+
+### 10. `DALL·E 2024-03-17 10.41.19 - ... galaxy-themed lotus flower ....webp`
+**Tier: Solid-but-crowded**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 4 | 4 | 3 |
+
+A cosmic/nebula-textured lotus flower with a beam of light rising from its center. Nicely rendered petal structure and interior glow, but "galaxy flower" sits alongside the mandala (#8) and macro-eye (#9) as one of the most common decorative AI-art tropes across the whole medium.
+
+**Verdict:** Same read as #8 and #9 — good craft, low ceiling on distinctiveness because of how common the archetype is industry-wide.
+
+---
+
+### 11. `DALL·E 2024-03-29 05.44.15 - ... mandala ... Amazon rainforest ....webp`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 4 | 3 | 4 |
+
+An 8-fold symmetrical mandala built from aerial Amazon rainforest photography, centered on a large photorealistic eye — reads as "the eye of the jungle/Gaia," nature as a watching consciousness. More conceptually specific than #8–10: it's not just "pretty symmetry," it has an actual thesis. Held back slightly because the photorealistic eye and the illustrated/graphic border pattern don't fully match in rendering style, creating a visible seam between the mixed-media elements.
+
+**Verdict:** The most conceptually interesting of the four abstract/mandala pieces — worth including over #8–10 if only one "cosmic mandala" piece makes a shortlist.
+
 ---
 
 ## Running notes / patterns
 *(updated as the collection grows)*
+
+- **Clarifying the Distinctiveness correction from earlier:** that correction was about not penalizing an image for sharing *this artist's own* recurring theme or style (e.g. the gothic-creature pieces, #2–4). It does **not** mean every genre gets a pass — "symmetrical cosmic fractal mandala" (#8), "macro alien eye" (#9), and "galaxy flower" (#10) are being scored lower on Distinctiveness because they're overrepresented across AI art *as a whole medium*, independent of anything else in this collection. That's a different axis: house style (fine, even good) vs. an industry-wide cliché prompt (genuinely a mark against standing out). Flagging this now so the two don't get conflated going forward.
 
 - 4 images logged. A clear early theme: **3 of the first 4 new uploads (#2, #3, #4) are dark-fantasy/gothic skeletal-or-demonic creature pieces** — bat-wings, glowing ribcages/hearts, ruined-gothic backdrops. This is noted as a recurring subject/style in the artist's work, not a competitive penalty — each of the three was judged on its own specific choices and all three hold up as Standout individually. If this theme keeps appearing at similar quality through the rest of the collection, expect the shortlist to include multiple entries from it.
 - #1 (the equestrian-portrait subversion) is still the only entry so far built around genre *subversion* specifically — the gothic-creature pieces are more "genre executed with excellence" than "genre twisted." Both are legitimate paths to Standout; noting the distinction for variety in how the final shortlist gets described, not as a ranking difference.
