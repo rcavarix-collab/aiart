@@ -279,6 +279,56 @@ A vast radially-symmetric nebula in deep blue/indigo/black, centered on a single
 
 **Verdict:** The most atmospherically effective of the cosmic-eye-mandala pieces, but its own prompt confirms it's a derivative recolor, which caps it below Standout despite strong execution.
 
+### 21. `UniversalUpscaler_1239fad1-a0f5-42e9-bf60-e13e100a97c6.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+A literal illustration of "a wolf in sheep's clothing": a wolf wearing a delicate lace veil/shawl stands calmly among real sheep in a golden-hour pasture, daisies and a butterfly in the foreground, staring straight at the viewer. The idiom is played completely straight — warm, pastoral, classical genre-painting style, not a joke-costume render — which is exactly why it lands: the wolf's calm direct gaze against the sweetness of the setting is what's unsettling, not any visual gag.
+
+**Verdict:** On par with #1 as one of the collection's clearest examples of genuine concept + genre fluency. No AI-tells, no wasted device — everything in the frame serves the idiom.
+
+---
+
+### 22. `UniversalUpscaler_1f54733e-8c92-4a5d-b59b-199e60cc4350(1).jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 5 |
+
+A moon-sized spherical body riddled with dark craters/holes, trailing thousands of fine hair-like cilia/legs, drifting in space near distant planets — a familiar celestial object (a moon or asteroid) reimagined as a colossal living organism. Not a "monster" in a humanoid or animal sense at all; the horror comes from something that's supposed to be inert turning out to be alive.
+
+**Verdict:** A genuinely original creature concept — reframing a celestial body as a body — executed with meticulous linework on the countless trailing cilia.
+
+---
+
+### 23. `UniversalUpscaler_3019de3e-2cfa-41a2-8399-c6bcb8b4fd44.jpg`
+**Tier: Solid-but-crowded**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 2 | 1 | 4 | 4 | 2 |
+
+A sunlit dirt path winding through a lush green meadow bordered by wildflowers and birch trees. Technically fine — good depth and foliage variety — but this is a textbook idyllic-countryside-path image, one of the most generic "pleasant landscape" subjects there is, with no mood, narrative, or restraint working in its favor the way #14's foggy moor had.
+
+**Verdict:** The first clear "pretty but forgettable" entry in the batch — competent execution, nothing to hold onto.
+
+---
+
+### 24. `UniversalUpscaler_3889e546-bdc2-41a8-aa32-bf931a3081a0.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 5 | 5 | 5 |
+
+A colossal molten, skull-shaped sun hangs over a scorched, cracked wasteland, dripping fire like melting wax, dead trees and two tiny robed figures walking a river of light toward it. Shares the "apocalyptic celestial body over a dead world" device with #7 ("Ashen Dawn") — noted as a recurring motif, not a penalty — but pushes it further into overt body-horror by making the sun itself a skull, and drops the card/border presentation for a straight dramatic illustration.
+
+**Verdict:** Visceral, immediate impact — one of the most striking single images in the batch. The skull-sun symbolism (death replacing the life-giving sun) does real thematic work.
+
 ---
 
 ## Running notes / patterns
@@ -291,3 +341,4 @@ A vast radially-symmetric nebula in deep blue/indigo/black, centered on a single
 - 7 images logged. Two more distinct threads have emerged: **botanical/nature-horror** (#5) and a **human-monster relationship/narrative** angle (#6), plus a wholly different **tarot/grimoire-plate presentation format** (#7, title text + rune border + alternate medium simulation). So far every image in the batch has scored Standout — this batch is confirmed to be a genuinely strong pre-curated set, consistent with the artist's note that it's their own picked favorites. Expect the tier spread to widen once less-curated/unsorted material is added.
 - 15 images logged. The tier spread has now widened as predicted: alongside the dark-fantasy horror pieces, this artist also works confidently in **calm/meditative surrealism** (#13), **restrained realist landscape** (#14), and **traditional impressionism** (#15) — real stylistic range, not a one-note collection. The oversaturated-archetype pieces (#8–10) remain the only Solid-but-crowded/lower entries so far; everything else, across very different genres, has cleared Strong or better on its own merits.
 - 20 images logged. The **"cosmic eye/mandala" cluster is now confirmed as its own recurring thread** (#8, #9, #11, #20) — treated per the theme-is-not-a-penalty rule, but #20 is explicitly a recolor of an earlier piece per its own prompt text, which is the first clear case of the duplicate/derivative-handling concern the artist raised (a deliberate variant, not an accidental re-upload, but worth tracking the same way). Also: **quiet solitary-figure staging** is emerging as a small motif (#13's sailor, #18's beach walker) that reliably lifts a landscape from decorative to Standout — worth watching for as the batch continues. #19 (the invented deep-sea creature) is the strongest execution+concept combo logged so far.
+- 24 images logged, now into the `UniversalUpscaler_*` files (no descriptive filenames — checking each against prior entries for the duplicate/upscale rule as I go; none so far have matched an existing file, they read as distinct generations). #21 (wolf in sheep's clothing) joins #1 as the collection's clearest "genuine idiom/concept, played straight" pieces. #24 extends the "apocalyptic celestial body" motif already seen in #7. #23 is the first genuinely generic/forgettable entry — useful confirmation the rubric isn't just rubber-stamping everything Standout.
