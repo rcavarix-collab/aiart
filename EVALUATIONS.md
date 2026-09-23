@@ -429,6 +429,56 @@ A toothed void — a gaping maw ringed in purple-pink light with no attached bod
 
 **Verdict:** Effective, unsettling, and conceptually tidy — held just below Standout by how much rendering vocabulary it shares with #20 and #29 specifically (not a theme overlap, a technique overlap).
 
+### 33. `UniversalUpscaler_d063337a-4841-45f6-b409-73df091f0d9b.jpg`
+**Tier: Solid-but-crowded**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 1 | 4 | 4 | 3 |
+
+An abstract sculpture of glowing white-blue light filaments arcing over a stylized ringed-planet horizon and starfield. Clean, well-controlled linework and a distinct cool palette from the rest of the batch, but it's decorative light-art with no narrative or thesis — closer in spirit to #8/#10 than to the stronger conceptual pieces.
+
+**Verdict:** Pretty, competently made, forgettable — same read as the earlier decorative-mandala entries.
+
+---
+
+### 34. `UniversalUpscaler_df0f51fc-0de8-4ec5-8ddb-75ebe9eef66c.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A colossal dragon with wings literally textured as starfield/nebula stands on an alien cliff before a glowing spiral wormhole. Shares the "dragon fused with a cosmic phenomenon" device with #12 (eclipse dragon) — noted as a recurring device across this artist's dragon pieces specifically, not a theme penalty — but the galaxy-textured wing membrane is rendered with enough specific care (visible star clusters and nebula color within the wing skin) to stand as its own distinct execution.
+
+**Verdict:** Arguably surpasses #12 on sheer visual integration of the cosmic texture into the creature; a strong second data point for "cosmic-fusion dragon" as a device this artist returns to successfully.
+
+---
+
+### 35. `UniversalUpscaler_f35ad8e9-744a-4dd8-b853-4f2a855963fc.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 5 |
+
+A colossal jeweled, stained-glass-winged fly with compound eyes reflecting galaxies looms benevolently over an ornate art-nouveau fantasy city at golden hour, tiny human figures on a pier for scale. A major register shift from the rest of the collection: warm, sacred, and awe-inspiring rather than dark or threatening, and the specific choice to render an insect — usually the least sympathetic possible subject — as bejeweled and holy is a genuine inversion of expectation.
+
+**Verdict:** One of the clearest demonstrations of range in the whole batch. Extremely high craft (the ornamentation is consistent across the entire frame) in service of a real conceptual turn. Strong shortlist candidate.
+
+---
+
+### 36. `UniversalUpscaler_f7ac1cc1-b795-4c33-ad65-b885a25c5e34.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 4 |
+
+An invented arctic creature: a manta-ray/frog-faced being with a huge translucent leaf-veined sail-wing, delicate antennae, and spindly insect-like legs, standing on ice among icebergs. A second clear example (after #19's deep-sea species) of genuine speculative-biology worldbuilding — a specific, plausible-feeling adaptation to its environment rather than a generic "cool creature."
+
+**Verdict:** Pairs naturally with #19 as bookends of an "invented xenobiology" thread — arctic vs. deep-sea — both among the most original concepts in the whole collection.
+
 ---
 
 ## Running notes / patterns
@@ -444,3 +494,11 @@ A toothed void — a gaping maw ringed in purple-pink light with no attached bod
 - 24 images logged, now into the `UniversalUpscaler_*` files (no descriptive filenames — checking each against prior entries for the duplicate/upscale rule as I go; none so far have matched an existing file, they read as distinct generations). #21 (wolf in sheep's clothing) joins #1 as the collection's clearest "genuine idiom/concept, played straight" pieces. #24 extends the "apocalyptic celestial body" motif already seen in #7. #23 is the first genuinely generic/forgettable entry — useful confirmation the rubric isn't just rubber-stamping everything Standout.
 - 28 images logged. **#25 confirms the "grimoire/etched-plate" series first seen in #7** — same medium simulation, and likely the current frontrunner for best-in-collection given its combination of originality, execution, and actual social commentary (technology as devouring deity). Also noting a possible emerging device: **chained/bound monsters** (#6's leashed beast, #28's chained Cerberus) — but unlike #6, #28's chain is mythologically expected rather than a fresh narrative beat, so this is flagged as a motif to watch, not assumed to be equally effective each time it recurs.
 - 32 images logged (12 of 16 `UniversalUpscaler_*` files reviewed, 4 remain). **#29 (the weeping tree) is now the top emotional-impact piece in the collection** — genuinely sad rather than scary, a register the rest of the batch hasn't hit. A **"colossal cosmic entity" register** is now clearly established (#20, #22, #24, #25, #29, #30, #32) — vast beings/voids rendered with swirling tendrils and cosmic scale; per the theme rule this isn't a penalty, but #31 and #32 specifically are being held to Strong rather than Standout because they reuse rendering *technique* (not just theme) from earlier entries in that register with less of a new idea attached. Current best-in-collection shortlist candidates so far: #19, #21, #25, #29.
+
+- **Batch 1 complete: all 36 images logged (1 original + 35 uploaded, no exact duplicate/upscale pairs found — every file was a distinct generation, so the duplicate-handling rule in the header went unused this round).** Final tally: roughly two-thirds of the batch landed Standout, confirming this really is the artist's own pre-selected best-of, as flagged at the start. Top shortlist candidates by the end of Batch 1, ranked by combined originality + execution + emotional impact:
+  1. **#29** — the weeping tree (tears become the last river) — clearest emotional hit in the collection.
+  2. **#25** — the technology-demon at the keyboard — most conceptually dense/allegorical piece.
+  3. **#19** and **#36** — the two invented creatures (deep-sea Shale Skimmer, arctic ray-creature) — best speculative-biology worldbuilding.
+  4. **#1** and **#21** — the equestrian-portrait subversion and the wolf-in-sheep's-clothing — cleanest "genre/idiom played straight" concepts.
+  5. **#35** — the jeweled fly over the art-nouveau city — best demonstration of tonal/stylistic range (warm and sacred vs. the collection's dominant dark register).
+  - Clear weak points, useful for knowing what *not* to keep submitting: the decorative cosmic-mandala/light-art pieces (#8, #9, #10, #23, #33) consistently cap out at Strong/Solid-but-crowded — pretty, but the most replicated genre both within AI art generally and, now, within this artist's own output.
