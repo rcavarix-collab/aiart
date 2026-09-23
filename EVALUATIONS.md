@@ -12,6 +12,19 @@ Every image in this repo gets scored on the same rubric so the best work can be 
 
 **Tiers:** Standout · Strong · Solid-but-crowded · Skip
 
+## Handling duplicates & upscales
+
+Some images are exact or near-duplicates (a base gen + an upscale pass). Rule:
+- **Only one entry per "shot"** gets a full scored log entry.
+- When a duplicate/upscale pair is found, compare them directly and keep the entry on whichever file is visually superior (upscale is often but *not always* better — sometimes the upscaler introduces smoothing/artifacting that hurts execution, and the base wins).
+- The file **not** chosen is listed under that entry as "Superseded by / duplicate of," noting *why* (e.g. "base version — upscale sharpens facial detail without introducing artifacts, upscale wins" or "upscale over-smooths fabric texture, base wins"), so nothing is silently dropped from the record even though it doesn't get its own row.
+- If two files are genuinely the same shot and indistinguishable in quality, default to keeping the higher-resolution one and note the other as a duplicate.
+
+## Batch context
+
+- **Batch 1** (first images submitted): the artist's own pre-selected favorites/best-of, not a random sample. Scores here should be read against a higher baseline — this batch is expected to skew toward Standout/Strong, and "Solid-but-crowded" in this batch may still be genuinely good work, just not as sharp as the artist's other favorites.
+- Later batches (if more unsorted/unfiltered work gets added) should be judged on the rubric's own terms, not against Batch 1's elevated baseline — a wider, unsorted pool should be expected to have a normal spread including real Skips.
+
 ---
 
 ## Log
