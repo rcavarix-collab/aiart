@@ -4,7 +4,7 @@ Every image in this repo gets scored on the same rubric so the best work can be 
 
 ## Rubric (1–5 each, unless noted)
 
-- **Distinctiveness** — would this stand out in a stranger's portfolio, or is it a repeat of a formula already nailed elsewhere in the collection?
+- **Distinctiveness** — judged on the piece's own merits: does it have a specific idea, striking detail, or executional peak of its own? This is *not* a penalty for sharing a theme or subject with other pieces in the collection — a recurring theme is a stylistic identity, not a demerit. It only counts against a piece when it's a genuinely interchangeable rerun of another entry (same composition, same specific choices, nothing new), not merely the same genre.
 - **Concept/Wit** — is there an actual idea (juxtaposition, narrative, genre subversion), or just "nice prompt, no thesis"?
 - **Execution** (gate) — anatomy/physics coherence, rendering quality, absence of AI-tell artifacts. Bad execution caps the tier regardless of concept.
 - **Style cohesion** — if imitating/fusing a visual tradition, does it actually speak that language fluently?
@@ -41,46 +41,48 @@ A heroic equestrian portrait (Napoleon-Crossing-the-Alps register — dramatic c
 **Verdict:** Strong opener — genuine concept plus genre fluency, not just a pretty render. Sets the bar for what "distinctive" looks like in this collection.
 
 ### 2. `ChatGPT Image Apr 10, 2025, 01_11_25 PM.png`
-**Tier: Strong**
+**Tier: Standout** *(revised — see note below)*
 
 | Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
 |---|---|---|---|---|
-| 3 | 2 | 5 | 5 | 4 |
+| 4 | 3 | 5 | 5 | 4 |
 
-Bat-winged demon/gargoyle perched on a lava-cracked cliff edge, glowing white eyes, exposed glowing-red ribcage, cracked moon overhead, distant castle spires, bats in flight. Technically excellent — coherent creature anatomy, atmospheric lighting (moon, lava glow, mist), confident painterly rendering. Concept is a fairly stock "cool dark-fantasy monster" brief with no twist beyond the design itself.
+Bat-winged demon/gargoyle perched on a lava-cracked cliff edge, glowing white eyes, exposed glowing-red ribcage, a distinctly cracked/fractured moon overhead, distant castle spires, bats in flight. Coherent creature anatomy, atmospheric lighting (moon, lava glow, mist), confident painterly rendering. The cracked moon is a specific, well-placed detail that implies a larger event beyond the frame rather than just dressing the sky.
 
-**Verdict:** A genre-standard dark-fantasy creature piece executed at a high level. Craft carries it, concept doesn't add anything beyond "well-designed monster."
+**Verdict:** Excellent on its own terms — judged for what's actually on the canvas rather than against its neighbors in the batch.
 
 ---
 
 ### 3. `ChatGPT Image Apr 21, 2025, 08_13_00 AM.png`
-**Tier: Strong**
+**Tier: Standout** *(revised — see note below)*
 
 | Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
 |---|---|---|---|---|
-| 3 | 2 | 5 | 5 | 4 |
+| 4 | 3 | 5 | 5 | 4 |
 
-Emaciated bat-creature with translucent skin showing its ribcage, perched on a thorned branch, gothic castle silhouette and dead forest behind it, green ground fog. Same archetype and register as #2 (bat-demon creature design), differentiated mainly by the sickly, skin-and-bone rendering and the thorn/dead-tree staging. Excellent execution and mood.
+Emaciated bat-creature with translucent, sickly skin showing its ribcage through it, perched on a thorned branch, gothic castle silhouette and dead forest behind it, green ground fog. The translucent-skin/body-horror rendering choice is a more specific and uncommon design decision than a straightforward glowing-eyes demon, and the thorn-branch grip and dead-forest staging are its own composition, not a copy of #2's.
 
-**Verdict:** Strong craft, but this is the second bat-demon-on-a-perch piece in a row — read alongside #2, it starts to look like a formula being run rather than two independent ideas.
+**Verdict:** Stands fully on its own — the body-horror skin treatment and forest staging are a distinct executional and design choice, not a rerun.
 
 ---
 
 ### 4. `ChatGPT Image Apr 9, 2025, 05_53_22 AM.png`
-**Tier: Strong**
+**Tier: Standout**
 
 | Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
 |---|---|---|---|---|
-| 3 | 3 | 5 | 5 | 5 |
+| 4 | 3 | 5 | 5 | 5 |
 
-A crowned skeletal lich-king figure, arms raised summoning red/blue lightning, a glowing heart burning inside its exposed ribcage, ghostly worshippers kneeling below amid ruins, all inside an ornate decorative arch frame. The most compositionally ambitious of the three gothic/skeletal pieces so far — the built-in frame and the crowd-of-worshippers staging give it a "shrine icon" quality the other two don't have, and the glowing heart is a specific, slightly poignant motif (something tender kept alive inside something monstrous) rather than just a monster silhouette.
+A crowned skeletal lich-king figure, arms raised summoning red/blue lightning, a glowing heart burning inside its exposed ribcage, ghostly worshippers kneeling below amid ruins, all inside an ornate decorative arch frame. The built-in frame and the crowd-of-worshippers staging give it a "shrine icon" quality, and the glowing heart is a specific, slightly poignant motif (something tender kept alive inside something monstrous) rather than just a monster silhouette.
 
-**Verdict:** The strongest of the three dark-fantasy/skeletal pieces in this stretch — the framing device and the heart motif give it a sliver more concept than pure creature-design. Still capped below Standout because the underlying "epic dark lich" register itself isn't new territory for the collection.
+**Verdict:** The most compositionally ambitious of the three — framing device, crowd staging, and the heart motif all read as deliberate choices rather than default monster-portrait staging.
+
+> **Revision note (images 2–4):** these three were initially scored down on Distinctiveness for sharing a dark-fantasy/skeletal-creature theme with each other. That was a scoring error — a recurring theme across the artist's body of work is a stylistic identity, not grounds to cap any individual piece. Rubric's Distinctiveness definition corrected above; scores here reflect each image judged on its own specific choices and execution. All three hold up independently and are re-tiered to Standout.
 
 ---
 
 ## Running notes / patterns
 *(updated as the collection grows)*
 
-- 4 images logged. A clear early cluster: **3 of the first 4 new uploads (#2, #3, #4) are dark-fantasy/gothic skeletal-or-demonic creature pieces** — bat-wings, glowing ribcages/hearts, ruined-gothic backdrops. Execution is consistently excellent across all three, but they're competing with each other for the same "slot" in a best-of shortlist. Worth flagging now in case the rest of the batch skews the same way — if so, the shortlist will likely include only the single best of this archetype (currently #4) rather than all three, per the distinctiveness rule.
-- #1 (the equestrian-portrait subversion) remains the only entry so far with a genuine conceptual twist rather than "well-executed genre piece."
+- 4 images logged. A clear early theme: **3 of the first 4 new uploads (#2, #3, #4) are dark-fantasy/gothic skeletal-or-demonic creature pieces** — bat-wings, glowing ribcages/hearts, ruined-gothic backdrops. This is noted as a recurring subject/style in the artist's work, not a competitive penalty — each of the three was judged on its own specific choices and all three hold up as Standout individually. If this theme keeps appearing at similar quality through the rest of the collection, expect the shortlist to include multiple entries from it.
+- #1 (the equestrian-portrait subversion) is still the only entry so far built around genre *subversion* specifically — the gothic-creature pieces are more "genre executed with excellence" than "genre twisted." Both are legitimate paths to Standout; noting the distinction for variety in how the final shortlist gets described, not as a ranking difference.
