@@ -216,6 +216,69 @@ An impressionist plein-air-style study of sea lavender and coastal scrub on a sa
 
 **Verdict:** Craft is top-tier; without a concept or an emotional hook beyond "nice," it lands as Strong rather than Standout.
 
+### 16. `DALL·E 2024-04-30 08.43.45 - ... massive, radiant, blood-red planet ....webp`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 4 | 4 | 3 |
+
+A massive cratered blood-red planet looms low over an alien horizon studded with tall crystalline/rock spires, a small distant sun near the skyline. Good atmospheric depth and a convincing sense of scale, but "giant planet over alien landscape" is a familiar sci-fi concept-art staple, and the spire formations along the horizon repeat fairly uniformly.
+
+**Verdict:** Competent sci-fi spectacle without a specific hook beyond scale.
+
+---
+
+### 17. `DALL·E 2024-04-30 18.55.12 - ... full moon hung low in an ink-black sky ....webp`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 4 |
+
+A large, richly detailed full moon over a birch-and-pine forest, a moonlit stream, and scattered glowing motes (fireflies or magic dust) in the undergrowth, all in a restrained blue monochrome. "Magical moonlit forest" is a very familiar fantasy-art subject, but the birch-bark specificity, varied tree silhouettes, and disciplined single-light-source rendering are genuinely well handled.
+
+**Verdict:** Beautifully controlled mood piece; execution outpaces how familiar the underlying subject is.
+
+---
+
+### 18. `DALL·E 2024-05-06 20.25.06 - ... impressionist seascape ... beach scene at dusk ....webp`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A bold, impasto-style impressionist sunset seascape — sweeping lavender/gold/pink sky strokes, glowing surf, and a single tiny figure walking the shoreline in the distance. The paint-stroke rendering is thicker and more dynamic than the more polished impressionism of #15, closer to Van Gogh/Turner energy than a smooth digital gradient, and the solitary walker again gives a quiet human-scale narrative beat (echoing #13's sailor).
+
+**Verdict:** The most convincingly "hand-painted" texture in the batch so far, plus the same quiet-solitude device that worked well in #13 — earns Standout on craft and mood together.
+
+---
+
+### 19. `DALL·E 2024-05-08 10.08.37 - ... "Luminous Shale Skimmer" ... deep-sea creature ....webp`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 5 |
+
+An invented deep-sea species (named in-prompt: the "Luminous Shale Skimmer"), part krill, part moth, part squid — translucent gem-like shell segments gradient from blue to red, one large black eye, fine trailing feelers, hovering over glowing volcanic rock. Genuine speculative-biology worldbuilding rather than a generic "cool monster," with material rendering (the shell reads like layered opal/glass) that's a clear technical peak for the batch.
+
+**Verdict:** One of the strongest pieces evaluated so far — original creature concept, a name and implied ecosystem, and the best material/shader work in the collection to date.
+
+---
+
+### 20. `DALL·E 2024-05-13 03.41.56 - ... dark cosmic horror ... vibrant and symmetrical original ....webp`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 3 | 5 | 5 | 4 |
+
+A vast radially-symmetric nebula in deep blue/indigo/black, centered on a single huge cosmic eye — explicitly a recolored cosmic-horror variant of an earlier "vibrant and symmetrical" piece (per its own prompt text), combining the mandala-symmetry device of #8 with the giant-eye device of #9/#11. The Lovecraftian framing (the universe itself as an unblinking eye) is a sharper concept than pure decoration, and the nebula/smoke rendering is excellent, but it's still working the same "cosmic eye mandala" territory as three earlier entries.
+
+**Verdict:** The most atmospherically effective of the cosmic-eye-mandala pieces, but its own prompt confirms it's a derivative recolor, which caps it below Standout despite strong execution.
+
 ---
 
 ## Running notes / patterns
@@ -227,3 +290,4 @@ An impressionist plein-air-style study of sea lavender and coastal scrub on a sa
 - #1 (the equestrian-portrait subversion) is still the only entry so far built around genre *subversion* specifically — the gothic-creature pieces are more "genre executed with excellence" than "genre twisted." Both are legitimate paths to Standout; noting the distinction for variety in how the final shortlist gets described, not as a ranking difference.
 - 7 images logged. Two more distinct threads have emerged: **botanical/nature-horror** (#5) and a **human-monster relationship/narrative** angle (#6), plus a wholly different **tarot/grimoire-plate presentation format** (#7, title text + rune border + alternate medium simulation). So far every image in the batch has scored Standout — this batch is confirmed to be a genuinely strong pre-curated set, consistent with the artist's note that it's their own picked favorites. Expect the tier spread to widen once less-curated/unsorted material is added.
 - 15 images logged. The tier spread has now widened as predicted: alongside the dark-fantasy horror pieces, this artist also works confidently in **calm/meditative surrealism** (#13), **restrained realist landscape** (#14), and **traditional impressionism** (#15) — real stylistic range, not a one-note collection. The oversaturated-archetype pieces (#8–10) remain the only Solid-but-crowded/lower entries so far; everything else, across very different genres, has cleared Strong or better on its own merits.
+- 20 images logged. The **"cosmic eye/mandala" cluster is now confirmed as its own recurring thread** (#8, #9, #11, #20) — treated per the theme-is-not-a-penalty rule, but #20 is explicitly a recolor of an earlier piece per its own prompt text, which is the first clear case of the duplicate/derivative-handling concern the artist raised (a deliberate variant, not an accidental re-upload, but worth tracking the same way). Also: **quiet solitary-figure staging** is emerging as a small motif (#13's sailor, #18's beach walker) that reliably lifts a landscape from decorative to Standout — worth watching for as the batch continues. #19 (the invented deep-sea creature) is the strongest execution+concept combo logged so far.
