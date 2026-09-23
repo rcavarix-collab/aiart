@@ -166,6 +166,56 @@ An 8-fold symmetrical mandala built from aerial Amazon rainforest photography, c
 
 **Verdict:** The most conceptually interesting of the four abstract/mandala pieces — worth including over #8–10 if only one "cosmic mandala" piece makes a shortlist.
 
+### 12. `DALL·E 2024-04-07 20.31.31 - ... female dragon ... solar eclipse ....webp`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 3 | 5 | 5 | 4 |
+
+A dragon wreathed in corona-flame, its silhouette fused with a total solar eclipse behind it, standing on a dark shoreline. Dragons are one of the most common fantasy subjects there is, but the specific conceit — the dragon literally embodying the eclipse rather than just posing in front of one — is a real idea, and the light integration between the corona and the creature's form is genuinely excellent.
+
+**Verdict:** Elevated well above a generic "cool dragon" piece by how deliberately the eclipse and the creature are fused, but the dragon-as-subject ceiling keeps it at Strong rather than Standout.
+
+---
+
+### 13. `DALL·E 2024-04-11 11.02.39 - ... sky and water merge in a mirror-like reflection ....webp`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 5 | 5 | 4 |
+
+A small sailboat with a solitary figure crosses a perfectly mirrored horizon of sea and sky, massive pastel cumulus clouds doubled above and below. A major tonal departure from every piece so far — calm and meditative instead of dramatic or eerie — and the tiny human-scaled sailor against the vast symmetrical cloudscape gives it a real feeling of solitude and journey rather than being just a pretty reflection trick.
+
+**Verdict:** Shows real range against the rest of the collection, and the human figure earns it a genuine emotional read (solitude, scale) rather than pure decoration.
+
+---
+
+### 14. `DALL·E 2024-04-15 16.57.52 - ... expansive moors shrouded in thick fog ....webp`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A quiet, near-monochrome moorland landscape dissolving into fog, soft smudged brushwork, minimal detail. The restraint is what stands out — everything else logged so far is maximalist (glowing eyes, lightning, dense ornament); this piece trusts empty space and atmosphere instead, and the soft-focus execution reads convincingly as an actual painting rather than a rendered scene.
+
+**Verdict:** A palette-cleanser that proves real range — mood and control over drama, not just density of detail.
+
+---
+
+### 15. `DALL·E 2024-04-27 15.06.45 - ... coastal plants and flowers ... sea lavender and samphire ....webp`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 3 |
+
+An impressionist plein-air-style study of sea lavender and coastal scrub on a sandy beach, turquoise surf and cliffs behind. Genuinely excellent, confident impressionist brushwork and believable light — technically among the strongest execution in the batch — but the subject itself (a pretty coastal botanical scene) doesn't carry an idea beyond its own prettiness.
+
+**Verdict:** Craft is top-tier; without a concept or an emotional hook beyond "nice," it lands as Strong rather than Standout.
+
 ---
 
 ## Running notes / patterns
@@ -176,3 +226,4 @@ An 8-fold symmetrical mandala built from aerial Amazon rainforest photography, c
 - 4 images logged. A clear early theme: **3 of the first 4 new uploads (#2, #3, #4) are dark-fantasy/gothic skeletal-or-demonic creature pieces** — bat-wings, glowing ribcages/hearts, ruined-gothic backdrops. This is noted as a recurring subject/style in the artist's work, not a competitive penalty — each of the three was judged on its own specific choices and all three hold up as Standout individually. If this theme keeps appearing at similar quality through the rest of the collection, expect the shortlist to include multiple entries from it.
 - #1 (the equestrian-portrait subversion) is still the only entry so far built around genre *subversion* specifically — the gothic-creature pieces are more "genre executed with excellence" than "genre twisted." Both are legitimate paths to Standout; noting the distinction for variety in how the final shortlist gets described, not as a ranking difference.
 - 7 images logged. Two more distinct threads have emerged: **botanical/nature-horror** (#5) and a **human-monster relationship/narrative** angle (#6), plus a wholly different **tarot/grimoire-plate presentation format** (#7, title text + rune border + alternate medium simulation). So far every image in the batch has scored Standout — this batch is confirmed to be a genuinely strong pre-curated set, consistent with the artist's note that it's their own picked favorites. Expect the tier spread to widen once less-curated/unsorted material is added.
+- 15 images logged. The tier spread has now widened as predicted: alongside the dark-fantasy horror pieces, this artist also works confidently in **calm/meditative surrealism** (#13), **restrained realist landscape** (#14), and **traditional impressionism** (#15) — real stylistic range, not a one-note collection. The oversaturated-archetype pieces (#8–10) remain the only Solid-but-crowded/lower entries so far; everything else, across very different genres, has cleared Strong or better on its own merits.
