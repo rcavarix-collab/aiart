@@ -1190,3 +1190,82 @@ An aerial view of a turquoise river winding through a red canyon, dome settlemen
 A gold-linework tarot/grimoire card on black, explicitly titled "THE DEVOURING SUN": a demonic solar face with jagged teeth chewing a crescent moon and crystal shards, flame tendrils radiating outward, a silhouetted temple below, a rune-inscribed Celtic-knot border. A fourth instance of the "hostile/devouring sun" motif (#7, #24, #43, #46), but executed in a genuinely new medium — fine gold-foil engraving/tarot-card format rather than painterly digital art — and the first to name itself explicitly.
 
 **Verdict:** Earns its place in a crowded register the same way #56 and #62 did: a familiar theme rendered through a fresh, specific technique. The explicit title is a nice piece of clarity none of its predecessors had.
+
+---
+
+### 87. `UniversalUpscaler_1002a80c-eef0-42ae-b267-98820ebc7a31.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+A small sailboat rests offshore at sunset, a moon and a distant sun both visible in the sky (signaling an alien world), and in the foreground, abandoned on the dark sand: a discarded astronaut helmet. A quiet, complete narrative told through a single object — someone has given up their mission, or found something better, and taken to the sea instead. Extends #13's calm-water/sailor device with a genuine sci-fi mystery hook.
+
+**Verdict:** One of the most narratively rich "quiet" pieces in the collection — the abandoned helmet does more storytelling work than most of the collection's more maximalist pieces attempt.
+
+---
+
+### 88. `UniversalUpscaler_b6cba983-726c-4ad6-8803-36285459c5a0.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 4 |
+
+Layered sandstone cliffs with fine sand cascading down them in vertical sheets, like waterfalls made of dust instead of water, under a starry nebula-lit sky. A single, clean, specific natural-phenomenon concept — "sand as water" — rendered with real conviction and technical control over the motion-blur/mist effect.
+
+**Verdict:** A genuinely inventive environmental idea, executed with restraint rather than being buried in extra detail — one clear trick, done well.
+
+---
+
+### 89. `UniversalUpscaler_b8e2b775-fbe1-44bc-b0b7-f0b9cbc5bdc4.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+A smug, wealthy older man in a tie-dye shirt is enshrined in an ornate gold portrait frame within a candlelit cathedral, holding up a glowing green Bitcoin coin like a holy relic; below, a small kneeling worshipper with a glowing halo raises a hand toward the "icon" in supplication. A sharp, immediately legible satire of cryptocurrency cult-worship — the "portrait as religious icon" device implies the man has been literally deified by his followers.
+
+**Verdict:** A fourth confirmed entry in this batch's "modern institution satirized through religious painting" thread (with #73, #75, #76) — arguably the funniest and most pointed of the set.
+
+---
+
+### 90. `UniversalUpscaler_def65d59-38d1-43ec-9861-a9d26a3f7900.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 3 |
+
+A couple kisses under a starry Milky Way sky in a moonlit forest clearing, moody blue palette, one hand resting on his chest. Well executed, but "couple kissing under the stars" is a very common fantasy-romance book-cover trope, and it's less specific than this collection's other warmth/companionship pieces (#64, #83).
+
+**Verdict:** Competent romance illustration; the collection's other togetherness pieces do more with less conventional staging.
+
+---
+
+### 91. `UniversalUpscaler_e11313d7-933b-404f-b0a2-56247f863ac1.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 3 |
+
+A photorealistic Mars-like crater landscape, boulders in the foreground, distant mountains, tire tracks curving through red sand with no rover in sight. Excellent geological and atmospheric rendering, and the empty tire tracks are a nice small storytelling touch (something was here, and left), but it doesn't carry the narrative weight of #70's astronaut-and-storm piece.
+
+**Verdict:** A well-crafted but fairly conventional sci-fi environment piece — competent rather than distinctive.
+
+---
+
+## Running notes / patterns (Batch 3 complete)
+
+- **Batch 3 complete: 25 entries logged across 25 files (#67–91).** No duplicate/upscale pairs this round — every file a distinct generation. This was the strongest batch yet: roughly 80% scored Standout, well above Batch 1 and 2's rate, driven by two major new discoveries:
+  - **#69, the illuminated-manuscript genesis poem**, is now the strongest single candidate for best-in-collection — the only piece with genuine original written text, executed with real poetic craft, and a direct thematic inversion of this artist's dominant dying-world imagery.
+  - **A confirmed "modern institution satirized through classical/religious painting" thread** — #73 (Faustian bargain), #75 (Identity Not Found), #76 (data-capitalist portrait), #89 (crypto icon) — four pieces using Baroque/devotional painting language specifically to critique commerce, bureaucracy, data, and cryptocurrency. This is this artist's sharpest satirical mode, distinct from the earlier single tech-demon piece (#25) it grew out of. Recommend treating this as a named series going forward.
+  - **A second, comedic-not-solemn satire pair** also emerged — #78 (chemtrail conspiracy painter) and #80 (theatrical vegan preacher) — "modern internet-culture archetype painted as an old master," played for laughs rather than dread.
+  - **#74 (Cerberus-as-puppy) is a direct, intentional punchline to Batch 2's #28** — recommend viewing as a matched pair.
+  - **Three straight classical-devotional pieces** (#68, #71, #72) confirmed as their own mode, useful as a direct contrast against #1's subversion of similar material.
+  - **Restraint/intimacy continues to be a real strength**, not a lesser mode: #81 (extreme close-crop feet), #83 (two figures and a lantern) both scored Standout on quiet, minimal compositions.
+  - **Diminishing-returns pattern confirmed again**: #85, the third instance of the "aerial inhabited crater/canyon world" idea, is the first of that specific concept to drop to Strong — same lesson as the bat-demon archetype (Batch 2) and the exposed-ribcage motif: a well-loved idea needs a genuinely new angle each time it returns, not just competent execution.
+  - **Updated top-of-collection shortlist after three batches**: **#69** (genesis poem) now leads; **#75** (Identity Not Found) and **#25** (tech-demon) follow as the sharpest satire; **#29** (weeping tree) and **#73** (Faustian bargain) for emotional/narrative density; **#19/#36/#51** for xenobiology and invention; **#1/#21/#74** for wit and subversion.
