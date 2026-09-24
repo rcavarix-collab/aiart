@@ -1073,3 +1073,68 @@ A Dutch Golden Age-style still life: an elaborate gothic-cathedral-spired smokin
 - **#74 (Cerberus-as-puppy) is a direct, legible punchline to Batch 2's #28** (a genuinely menacing Cerberus) — recommend the two be viewed side by side as an intentional matched pair, joining #1/#21 as this artist's clearest subversion-through-cuteness/wit works.
 - **#77 (gothic-cathedral bong still life) extends the "elevate the unexpected through total sincerity" device** (#21, #35, #74) into still-life painting specifically — a new formal category for that recurring move.
 - **This stretch is the highest-density run of Standouts in the collection so far** — 9 of 11 entries in this stretch scored Standout, only the three straight-devotional pieces landing at Strong. Worth flagging to the artist directly: whatever prompting/session produced #73–77 in particular was unusually productive.
+
+---
+
+### 78. `ChatGPT Image Apr 26, 2025, 06_21_54 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 4 | 5 |
+
+A wild-haired, glaring "conspiracy theorist" painter sits surrounded by multiple framed portraits of Bob Ross, a "CHEMTRAILS" sign, boxes labeled "PROTECTION KITS," and a laptop covered in conspiracy stickers — his own easel painting shows a peaceful Bob-Ross-style mountain landscape, except with jet contrails X-ed across the sky. A sharp, specific comedic character study: paranoia bleeding into the "happy little trees" genre itself.
+
+**Verdict:** Genuinely funny and well-observed, with real environmental storytelling in the supporting details. A different comedic register than the collection's classical-pastiche satire — grounded contemporary illustration instead.
+
+---
+
+### 79. `ChatGPT Image Apr 26, 2025, 12_18_57 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 5 | 5 | 4 |
+
+A hooded, robed figure levitates in ecstatic rapture inside a dark gothic cathedral, arms outstretched, face turned up toward a strange spherical entity with curling tentacle/horn-like structures reaching down toward her, candles flickering below. Deliberately ambiguous between religious ecstasy and cosmic-horror abduction — the viewer can't be sure if this is a miracle or a violation, and that uncertainty is the whole effect.
+
+**Verdict:** A genuinely eerie, well-controlled piece of ambiguity — extends this artist's religion/cosmic-entity interests (see #25, #58) into a third register: neither worship nor ritual, but something closer to possession.
+
+---
+
+### 80. `ChatGPT Image Apr 27, 2025, 07_35_55 PM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+A portly man in a "VEGAN" apron and welding cap (with a daisy tucked in it) wields a blowtorch like a wizard's staff over a smoking cauldron, mouth open mid-sermon, cabbages and carrots at his feet, all in an ornate gilt frame with a skull motif. A dead-on comedic portrait: a modern zealous-hobbyist archetype (the theatrical vegan cook) rendered with total classical-portraiture sincerity.
+
+**Verdict:** Pairs directly with #78 as a "modern internet-culture archetype painted as an old master" comedic series — worth naming as its own confirmed thread. The blowtorch-as-staff sight gag is one of the best single jokes in the collection.
+
+---
+
+### 81. `ChatGPT Image Apr 28, 2025, 09_10_19 PM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+An extreme close-crop composition: only a pair of bare feet visible, standing in tall wind-blown grass that curls around the ankles like tendrils, sunset glow on the horizon. A striking departure in framing — cropping out the figure entirely except the feet — that reads as quiet folk-horror or a nature-transformation moment without needing to show more.
+
+**Verdict:** One of the most compositionally unusual pieces in the collection; restraint and an unconventional crop do real work here instead of scale or maximal detail.
+
+---
+
+### 82. `ChatGPT Image Apr 30, 2025, 06_35_52 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+A hooded figure (another *Rückenfigur*) holds up a small hand mirror toward a colossal cloaked entity — a single giant eye, a robe made of writhing screaming faces — standing before a stone archway inscribed "MEMORIA NECATRIX" / "OBLIVIO REGIT" ("memory the destroyer" / "oblivion reigns"), in a moonlit ruined cemetery. The Latin inscriptions give this piece explicit thematic content most of the collection's cosmic-entity pieces only imply — a meditation on mortality and being forgotten, sharpened by the mirror gesture (confronting one's own oblivion).
+
+**Verdict:** A new variant of the Rückenfigur device — using text to state its theme outright rather than leaving it to composition alone. One of the most thematically legible cosmic-horror pieces in the collection.
