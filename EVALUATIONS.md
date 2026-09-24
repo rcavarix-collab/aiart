@@ -486,6 +486,101 @@ An invented arctic creature: a manta-ray/frog-faced being with a huge translucen
 
 ---
 
+## Batch 2
+
+### 37. `DALL·E 2025-02-26 10.22.32 - ... luminous pink lotus flower ... i.webp`
+**Tier: Solid-but-crowded**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 4 | 4 | 3 |
+
+A pink lotus centered in a symmetrical mandala of gold clockwork gears, sacred-geometry (Flower of Life) motifs, and pink energy beams firing from corner cannons. The organic-lotus-fused-with-steampunk-machinery pairing is a slightly more specific variation than a pure cosmic-gemstone mandala, but it's still fundamentally decorative with no narrative — same read as #8/#10/#33.
+
+**Verdict:** Competent addition to the decorative-mandala cluster; doesn't clear it into Standout territory.
+
+---
+
+### 38. `DALL·E 2025-02-26 22.20.42 - ... Falcon 9 ... realistic proportions ....webp`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 3 | 5 | 5 | 4 |
+
+A layered paper-cut-style Falcon 9 launches from a small curved planet, flanked by two symmetric launch towers, three astronauts watching from the ground (backs turned, one with visible backpack detail), Saturn and Earth visible as separate bodies in a swirling cosmic-ribbon sky. A genuinely new medium for the collection — consistent layered-paper simulation with visible edge thickness — and the small-planet/astronaut staging gives real triumphant, wonder-filled scale contrast rather than dread (a first for the "Sublime via scale-contrast" device — see Recurring devices).
+
+**Duplicate note:** near-identical in concept to `DALL·E 2025-02-26 22.19.51` (same prompt family, one minute apart in filename timestamps — a curved-earth-ground Falcon 9 launch with astronauts and a background planet). This file is the stronger of the two: tighter symmetry from the paired launch towers, more resolved depth from the additional background planets, and more naturally posed astronauts. The other file is not given its own entry per the duplicate-handling rule; it's a solid variant but this one wins on composition balance.
+
+**Verdict:** New medium, confidently executed, and a rare optimistic/triumphant entry in a collection otherwise dominated by dread or serenity — genuine range.
+
+---
+
+### 39. `DALL·E 2025-02-27 17.53.15 - ... bioluminescent watercolor ... cosmic entity ....webp`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 3 |
+
+A glowing jellyfish-like cosmic organism rendered in watercolor, fine radiating filament tendrils trailing into a starfield of small glowing motes. Decorative and abstract like the mandala cluster, but the watercolor-bleed medium and the organic (rather than geometric) form give it enough of its own identity, and the paint-on-black-paper texture is genuinely convincing.
+
+**Verdict:** Elevated above the pure decorative-mandala pieces by medium and form, but still lacks a thesis beyond its own prettiness.
+
+---
+
+### 40. `DALL·E 2025-03-04 16.36.01 - ... towering lighthouse ... layered yellow, white, and purple paper strips ....webp`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A lighthouse rising from a paper-cut lotus flower, topped by a radiant hexagonal sacred-geometry beacon, floating gold ornaments and starburst rays filling the sky, a path of light leading to it through purple flowers and reeds on a shoreline. Third confirmed instance of the paper-cut medium (with #38 and its near-duplicate) — this is now a genuine series, not a one-off. "Beacon of hope/guidance" is a familiar metaphor, but the craft execution (consistent paper layering throughout, coherent light-ray staging) is excellent.
+
+**Verdict:** Confirms paper-cut as a real medium this artist has mastered across at least three pieces — worth knowing as its own distinct strength alongside the dark-fantasy painting work.
+
+---
+
+### 41. `DALL·E 2025-03-08 12.27.11 - ... towering, ancient tree ... human-like eyes ....webp`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 5 | 5 | 5 | 5 |
+
+A gnarled ancient tree with two human-like eyes weeping continuous tears that feed a stream winding through a cracked drought wasteland; a swirling lightning-lit storm vortex fills the sky, and a second, smaller weeping tree is visible on the horizon. Essentially the same core idea as Batch 1's **#29** (the weeping willow whose tears are the last river) revisited — not a literal duplicate file, but the same specific metaphor explored a second time. This version adds something #29 didn't have: a second tree visible in the distance, implying this is a species or recurring phenomenon rather than one unique entity, which deepens rather than dilutes the concept.
+
+**Verdict:** A genuine "weeping tree" pair with #29 — see Recurring devices/running notes. Both instances are excellent; this one edges slightly ahead on atmosphere (the storm vortex) and worldbuilding (the second tree).
+
+---
+
+### 42. `DALL·E 2025-03-08 16.15.42 - ... massive bat ... translucent, glowing membrane pulsi[ng] ....webp`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 4 |
+
+A bat-winged skeletal demon in flight, one wing solid leathery membrane with lava cracks, the other dissolving into ghostly smoke tendrils, red eye, glowing ribcage, moon halo, a small ordinary bat flying alongside for scale, floating gothic spires with lava below. The asymmetric solid/spectral wing split is a genuinely specific new detail not seen in the earlier bat-demon pieces (#2, #3, Batch 1's #31), but this is now the fourth close variation on the same archetype in the collection.
+
+**Verdict:** Well executed with one real new idea (the wing asymmetry), but the archetype itself is showing diminishing returns — each new entry in this specific sub-genre needs to bring something as specific as this one's wing detail to keep earning Standout, and here it's enough for Strong but not quite enough to clear the bar the way #31 did.
+
+---
+
+### 43. `DALL·E 2025-03-08 17.59.04 - ... colossal, fractured Sun ... cracked, weepi[ng] ....webp`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 5 | 5 | 5 |
+
+A colossal molten skull-sun weeps fire over a cracked wasteland, two dead trees, a comet/ring shape in the sky, dense smoke, and two robed figures at different distances walking a river of lava toward it. Essentially the same core concept as Batch 1's **#24** (the molten skull-sun over a dead world) revisited — the second clear "same idea, different generation" pair in this batch (alongside the weeping-tree pair at #41). This version is somewhat richer in environmental detail (a second dead tree, additional atmospheric elements, two figures at staggered distances rather than together).
+
+**Verdict:** A "skull-sun" pair with #24, both excellent. Worth noting as this artist's second returning apocalyptic-celestial-body idea, alongside "Ashen Dawn" (#7) — the artist clearly has a specific recurring interest in dead/hostile suns as a symbol, independent of the broader "colossal cosmic entity" register.
+
+---
+
 ## Running notes / patterns
 *(updated as the collection grows)*
 
@@ -509,3 +604,5 @@ An invented arctic creature: a manta-ray/frog-faced being with a huge translucen
   - Clear weak points, useful for knowing what *not* to keep submitting: the decorative cosmic-mandala/light-art pieces (#8, #9, #10, #23, #33) consistently cap out at Strong/Solid-but-crowded — pretty, but the most replicated genre both within AI art generally and, now, within this artist's own output.
 
 - **Post-batch discussion note:** the artist independently named the scale-contrast device's real lineage — the death-metal/black-metal album-art tradition (and, further back, Hokusai) — before this log had made that art-historical connection explicit. Formalized above as "The Sublime via scale-contrast" in **Recurring devices**. The artist's read is that this shows up as a subconscious pattern across the work rather than a conscious formula, which tracks: it appears across otherwise unrelated genres in the collection (horror, cosmic, serene surrealism, the warm jeweled-fly piece), not clustered in one theme the way the gothic-creature or cosmic-mandala threads are. Worth flagging explicitly in future batches whenever it appears or is conspicuously absent from a large-scale piece.
+
+- **Batch 2, first 7 entries logged (#37–43) of ~15 new images.** Two notable "revisited idea" pairs surfaced, distinct from the duplicate/upscale case: **the weeping tree** (#41 vs. Batch 1's #29) and **the skull-sun** (#43 vs. Batch 1's #24) — same core metaphor explored twice, both times excellently, confirming these aren't one-off ideas but genuine recurring interests worth naming (grief-as-last-water, and death-replacing-the-sun). A **paper-cut medium series** also emerged for the first time (#38 and its superseded near-duplicate, #40) — a third distinct craft technique alongside the "grimoire/etched-plate" series (#7, #25) and standard digital painting, and the first entries in the collection with a genuinely triumphant/optimistic register rather than dread, serenity, or awe. The fourth bat-demon variant (#42) is the first case of a well-worn archetype visibly running out of room — still Strong, but a signal that this specific sub-genre may be approaching its ceiling within the collection.
