@@ -29,7 +29,7 @@ Named techniques the artist reaches for across multiple pieces, tracked here so 
 ## Batch context
 
 - **Batch 1** (first images submitted): the artist's own pre-selected favorites/best-of, not a random sample. Scores here should be read against a higher baseline — this batch is expected to skew toward Standout/Strong, and "Solid-but-crowded" in this batch may still be genuinely good work, just not as sharp as the artist's other favorites.
-- Later batches (if more unsorted/unfiltered work gets added) should be judged on the rubric's own terms, not against Batch 1's elevated baseline — a wider, unsorted pool should be expected to have a normal spread including real Skips.
+- **Revised assumption (post-Batch 1):** the source collection runs to thousands of images, and GitHub's web uploader can't handle bulk uploads at that scale — so every future batch will also be hand-picked by the artist, not a random or unsorted pull. This means **no batch should be assumed to have a "normal" spread with real Skips just because it isn't Batch 1.** Each batch's own selection bar should instead be read from its results as they come in (e.g., "this batch skews harder into Strong-not-Standout than Batch 1 did" is a real, useful signal about that specific selection pass) rather than assumed in advance. Ask the artist what a given batch represents (favorites, a themed pull, a chronological slice, "everything from one generation session," etc.) if it isn't stated, since that context changes how a Strong or Solid-but-crowded verdict in it should be read.
 
 ---
 
