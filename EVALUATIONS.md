@@ -24,7 +24,7 @@ Some images are exact or near-duplicates (a base gen + an upscale pass). Rule:
 
 Named techniques the artist reaches for across multiple pieces, tracked here so they're recognized as deliberate craft rather than re-noted as a surprise each time they appear.
 
-- **The Sublime via scale-contrast.** A vast/dangerous/cosmic subject is paired with one small, human-scaled anchor (a lone figure, a tiny boat, a leash-holder) so the viewer has a unit to measure the enormity against. Without the anchor, "big" just reads as big; with it, it reads as awe. This is the core device of the Romantic sublime (Caspar David Friedrich's *Wanderer above the Sea of Fog*, Turner), it's why Hokusai's *Great Wave* includes the boats and their crews, and it's the same grammar death-metal/black-metal album art has run with for decades (tiny robed figure, colossal indifferent thing). The artist uses it across genres, not just horror — it isn't limited to any one theme in this collection. Confirmed instances: #6 (leashed beast), #13 (sailor on mirrored sea), #18 (beach walker), #24 (skull-sun over tiny robed figures), #29 (tiny figure at the weeping tree's roots — implicit via the scattered background figures), #30 (witness figure at the moon-entity's feet), #35 (human figures on the pier below the jeweled fly), #46 (robed figure on the skull-sun's lava path), #52 (a winged figure, back turned, facing a spiral galaxy — the collection's purest *Rückenfigur*, the exact compositional grammar of Friedrich's own work; reference example for this device). Worth watching deliberately going forward: when a colossal-subject piece lands as merely "big" rather than awe-inducing, a missing human-scale anchor is the most likely fix.
+- **The Sublime via scale-contrast.** A vast/dangerous/cosmic subject is paired with one small, human-scaled anchor (a lone figure, a tiny boat, a leash-holder) so the viewer has a unit to measure the enormity against. Without the anchor, "big" just reads as big; with it, it reads as awe. This is the core device of the Romantic sublime (Caspar David Friedrich's *Wanderer above the Sea of Fog*, Turner), it's why Hokusai's *Great Wave* includes the boats and their crews, and it's the same grammar death-metal/black-metal album art has run with for decades (tiny robed figure, colossal indifferent thing). The artist uses it across genres, not just horror — it isn't limited to any one theme in this collection. Confirmed instances: #6 (leashed beast), #13 (sailor on mirrored sea), #18 (beach walker), #24 (skull-sun over tiny robed figures), #29 (tiny figure at the weeping tree's roots — implicit via the scattered background figures), #30 (witness figure at the moon-entity's feet), #35 (human figures on the pier below the jeweled fly), #46 (robed figure on the skull-sun's lava path), #52 (a winged figure, back turned, facing a spiral galaxy — the collection's purest *Rückenfigur*, the exact compositional grammar of Friedrich's own work; reference example for this device), #54 (a cloaked figure, back turned, before an activated runic portal). Worth watching deliberately going forward: when a colossal-subject piece lands as merely "big" rather than awe-inducing, a missing human-scale anchor is the most likely fix.
 
 ## Batch context
 
@@ -698,6 +698,58 @@ A winged skeletal figure stands with its back to the viewer atop a jagged, lava-
 
 ---
 
+### 53. `UniversalUpscaler_3d31c7ce-6df9-40f0-817f-ab060c016b67.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 2 | 2 | 5 | 5 | 3 |
+
+Another bat/dragon skeletal demon: red eyes, glowing ribcage, clawed dragon-like wings, a large detailed full moon behind, swirling ribbon-like mist, jagged lava spires below with a tiny figure for scale. Technically excellent, but this is now the **sixth** close variant of this specific archetype across the collection (Batch 1's #2, #3, #31; Batch 2's #42; this one), and unlike #42's asymmetric wing, nothing here is a genuinely new specific idea.
+
+**Verdict:** The clearest case yet of this archetype running past the point of earning Standout on execution alone — flagged explicitly in running notes as the threshold moment for this sub-genre.
+
+---
+
+### 54. `UniversalUpscaler_48126f98-83f1-43cd-8bad-585c68841a5b.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 5 |
+
+A hooded, cloaked figure (back to viewer — another *Rückenfigur*) stands before a colossal ancient stone ring covered in glowing runes, its center blazing with an activated portal of light, snowy tundra, aurora borealis, a rainbow beam, snow/feather particles adrift, a small distant village. A fresh setting and concept for the collection — a threshold/gateway moment, cool blue-green palette (a rare break from the dominant fire-and-red register) — with real implied narrative (someone about to step through).
+
+**Verdict:** One of the strongest worldbuilding pieces in the batch: specific setting, real narrative tension, and another clean instance of the sublime-via-scale-contrast device.
+
+---
+
+### 55. `UniversalUpscaler_6fe23585-7d63-4722-aba2-5eeb09fc11ed.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 5 | 5 | 4 |
+
+A colossal skeletal entity spans a nebula field, its limbs dissolving into a web of light-filament threads connecting to distant stars and a spiral galaxy. The specific idea here — the creature's body *is* the literal cosmic web (the astronomical large-scale structure of the universe) personified — is a genuinely fresh angle within the now-crowded "colossal cosmic entity" register, distinct from the eye/mandala and moon/sun variants already logged.
+
+**Verdict:** A smart, specific concept that earns its place in an increasingly crowded register by doing something none of the other cosmic-entity pieces attempted.
+
+---
+
+### 56. `UniversalUpscaler_8f1d3f43-34fb-49e4-bf13-14c8d72d14a3.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A recursive fractal composition: a black hole's spiral event horizon on one side flows into an endlessly repeating "tree of life" motif — star-lit fractal trees nested within circular fractal trees within circular fractal trees — sweeping across a cosmic backdrop toward a cooler teal register on the far side. Similar move to #49 (fractal forest): applies the mandala-cluster's fractal-symmetry technique to a motif with real poetic weight (growth/life spiraling toward entropy/void) rather than pure centered decoration.
+
+**Verdict:** The most visually hypnotic piece in the batch — rewards tracing the recursion, and the black-hole-to-tree-of-life pairing gives it more to think about than the purely decorative mandala pieces.
+
+---
+
 ## Running notes / patterns
 *(updated as the collection grows)*
 
@@ -725,3 +777,4 @@ A winged skeletal figure stands with its back to the viewer atop a jagged, lava-
 - **Batch 2, first 7 entries logged (#37–43) of ~15 new images.** Two notable "revisited idea" pairs surfaced, distinct from the duplicate/upscale case: **the weeping tree** (#41 vs. Batch 1's #29) and **the skull-sun** (#43 vs. Batch 1's #24) — same core metaphor explored twice, both times excellently, confirming these aren't one-off ideas but genuine recurring interests worth naming (grief-as-last-water, and death-replacing-the-sun). A **paper-cut medium series** also emerged for the first time (#38 and its superseded near-duplicate, #40) — a third distinct craft technique alongside the "grimoire/etched-plate" series (#7, #25) and standard digital painting, and the first entries in the collection with a genuinely triumphant/optimistic register rather than dread, serenity, or awe. The fourth bat-demon variant (#42) is the first case of a well-worn archetype visibly running out of room — still Strong, but a signal that this specific sub-genre may be approaching its ceiling within the collection.
 - **Batch 2 DALL·E/ChatGPT files complete (#37–48).** The "skull-sun" idea turned out to have a **third** instance (#46), confirming it as a genuine mini-series (like the bat-demon cluster) rather than a pair — and #46 may be the most refined single execution of the idea in the whole collection, worth leading with if only one skull-sun makes a shortlist. Two more pieces of real range surfaced: #44 (a spacecraft rendered as Chinese blue-and-white porcelain) pairs with #35 as a second "specific real decorative-art tradition applied to an unexpected subject" piece — worth naming as its own thread if a third example ever shows up. #48 (a restrained, near-photorealistic dying-star image) joins #14 as further proof this artist's quiet, minimal register is just as strong as the maximalist creature work, not a lesser mode. #45 (silverfish/undead hybrid) is the batch's one clear "good craft, no discipline" entry — a useful contrast case for what separates a Strong monster piece from a Standout one (compare its cluttered palette/composition to #19's or #36's restraint).
 - **Now into Batch 2's `UniversalUpscaler_*` files.** #51 (a bio-mechanical space-whale trailing bioluminescent fin-trails) extends the "invented xenobiology" thread (#19, #36) into a colossal, part-technological register — likely a top-tier entry. #52 gives the collection's purest example yet of **the Sublime via scale-contrast**: a winged skeletal figure, back turned to the viewer, arms outstretched toward a spiral galaxy — this is the literal Rückenfigur composition (figure-with-back-turned-facing-the-vastness) that defines Caspar David Friedrich's work, not just a small-anchor-for-scale variant like most of the collection's other instances. Worth citing directly the next time the sublime device comes up in discussion, since it's the clearest textbook example logged so far.
+- **The bat/dragon skeletal-demon archetype hit its ceiling at #53.** Sixth close variant of the same core piece (Batch 1's #2, #3, #31; Batch 2's #42, #53), and this one brought no new specific idea the way #42's asymmetric wing did — first entry in that archetype scored down to Strong purely for repetition rather than for any execution flaw. A second *Rückenfigur* also appeared (#54, a cloaked figure before a runic portal) — added to the Recurring devices list. And the "colossal cosmic entity" register gained two more genuinely distinct entries (#55's literal cosmic-web-as-creature, #56's black-hole/tree-of-life fractal) that earn their place by bringing a specific new idea rather than just repeating the register's general vastness — useful contrast with #53's failure to do the same within its own archetype.
