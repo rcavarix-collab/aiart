@@ -581,6 +581,71 @@ A colossal molten skull-sun weeps fire over a cracked wasteland, two dead trees,
 
 ---
 
+### 44. `DALL·E 2025-03-12 07.27.20 - ... futuristic spacecraft ... Chinese blue and white porcelain artifact ... gold accents ....webp`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 4 |
+
+A spacecraft rendered as a blue-and-white Chinese porcelain artifact — painted floral motifs across the wing surfaces, gold engine nacelles and trim, a decorative gold Greek-key-style frame with small dragon/qilin corner motifs, flying above an Earth sunrise. A genuinely fresh material-fusion concept (precious ceramic craft applied to a sci-fi vehicle) that hasn't appeared anywhere else in the collection, and the museum-plate framing adds a "precious artifact" presentation quality on top of the concept itself.
+
+**Verdict:** Pairs naturally with #35 (the jeweled fly) as a second example of applying a specific, real decorative-art tradition to an unexpected subject rather than generic "shiny/jeweled" — worth watching as its own potential thread.
+
+---
+
+### 45. `DALL·E 2025-03-12 11.52.30 - ... silverfish insect ... undead skeletal warrior ....webp`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 2 | 4 | 4 | 4 |
+
+A silverfish/undead-warrior hybrid — elongated segmented metallic body, a crown of red gem-like eyes, a skull jaw, scythe-claws, dripping ichor, standing in a bone-strewn swamp under dark spires. The insect/undead-warrior fusion is a specific, unusual combination, but the execution is busier and more garishly saturated (teal/red) than the artist's more controlled creature work, and there's no narrative beyond "extreme creature design."
+
+**Verdict:** Solid maximalist monster design, but reads as generic "extreme metal album art" next to the more restrained, purposeful creature pieces (#19, #36) — good craft without the same discipline.
+
+---
+
+### 46. `ChatGPT Image Apr 9, 2025, 01_16_59 PM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 5 | 5 | 5 |
+
+A third "skull-sun": a clean, highly legible molten skull looms over a cracked wasteland, fire dripping down in vertical streams, a single robed figure walking a lava path toward it, flanked symmetrically by dead trees. The third instance of this specific idea in the collection (after Batch 1's #24 and this batch's #43) — and arguably the most refined/iconic version of the three: simpler composition, cleaner skull silhouette, more poster-like impact.
+
+**Verdict:** Confirms "skull-sun" as a genuine mini-series (3 instances) rather than a one-off, on par with the bat-demon cluster in frequency. This version's clarity and restraint make a strong case for it as the single best representative of the idea if only one skull-sun makes a shortlist.
+
+---
+
+### 47. `ChatGPT Image Apr 11, 2025, 05_44_58 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A translucent, ghostly blue ray/manta-like creature hovers over a jagged sea of fire, tethered by a lightning-like thread to an ascending chain of glowing orange orbs. Strong cool/warm color contrast, and the orb-chain device implies a ritual or creation act without spelling it out. Shares a general body plan with #36's arctic ray-creature, but the spectral/translucent treatment and fire-world setting are different enough to read as its own idea rather than a rerun.
+
+**Verdict:** One of the more visually elegant pieces in the batch — the restraint in the creature's linework against the busy flame landscape is well judged.
+
+---
+
+### 48. `ChatGPT Image Apr 12, 2025, 09_26_47 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A dark, dying reddish star rendered in a restrained, near-photorealistic astrophotography style — a faint ghostly nebula ring, sparse stars, two small asteroid silhouettes for scale. A major departure into minimalism and scientific-feeling realism, similar in spirit to #14's foggy moor: almost all negative space, nothing illustrative or maximalist about it.
+
+**Verdict:** Another data point (with #14) that this artist's quietest, most restrained work is just as strong as the maximalist creature pieces — worth remembering when judging what "impressive" means for this collection.
+
+---
+
 ## Running notes / patterns
 *(updated as the collection grows)*
 
@@ -606,3 +671,4 @@ A colossal molten skull-sun weeps fire over a cracked wasteland, two dead trees,
 - **Post-batch discussion note:** the artist independently named the scale-contrast device's real lineage — the death-metal/black-metal album-art tradition (and, further back, Hokusai) — before this log had made that art-historical connection explicit. Formalized above as "The Sublime via scale-contrast" in **Recurring devices**. The artist's read is that this shows up as a subconscious pattern across the work rather than a conscious formula, which tracks: it appears across otherwise unrelated genres in the collection (horror, cosmic, serene surrealism, the warm jeweled-fly piece), not clustered in one theme the way the gothic-creature or cosmic-mandala threads are. Worth flagging explicitly in future batches whenever it appears or is conspicuously absent from a large-scale piece.
 
 - **Batch 2, first 7 entries logged (#37–43) of ~15 new images.** Two notable "revisited idea" pairs surfaced, distinct from the duplicate/upscale case: **the weeping tree** (#41 vs. Batch 1's #29) and **the skull-sun** (#43 vs. Batch 1's #24) — same core metaphor explored twice, both times excellently, confirming these aren't one-off ideas but genuine recurring interests worth naming (grief-as-last-water, and death-replacing-the-sun). A **paper-cut medium series** also emerged for the first time (#38 and its superseded near-duplicate, #40) — a third distinct craft technique alongside the "grimoire/etched-plate" series (#7, #25) and standard digital painting, and the first entries in the collection with a genuinely triumphant/optimistic register rather than dread, serenity, or awe. The fourth bat-demon variant (#42) is the first case of a well-worn archetype visibly running out of room — still Strong, but a signal that this specific sub-genre may be approaching its ceiling within the collection.
+- **Batch 2 DALL·E/ChatGPT files complete (#37–48).** The "skull-sun" idea turned out to have a **third** instance (#46), confirming it as a genuine mini-series (like the bat-demon cluster) rather than a pair — and #46 may be the most refined single execution of the idea in the whole collection, worth leading with if only one skull-sun makes a shortlist. Two more pieces of real range surfaced: #44 (a spacecraft rendered as Chinese blue-and-white porcelain) pairs with #35 as a second "specific real decorative-art tradition applied to an unexpected subject" piece — worth naming as its own thread if a third example ever shows up. #48 (a restrained, near-photorealistic dying-star image) joins #14 as further proof this artist's quiet, minimal register is just as strong as the maximalist creature work, not a lesser mode. #45 (silverfish/undead hybrid) is the batch's one clear "good craft, no discipline" entry — a useful contrast case for what separates a Strong monster piece from a Standout one (compare its cluttered palette/composition to #19's or #36's restraint).
