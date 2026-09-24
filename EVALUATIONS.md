@@ -1138,3 +1138,55 @@ An extreme close-crop composition: only a pair of bare feet visible, standing in
 A hooded figure (another *Rückenfigur*) holds up a small hand mirror toward a colossal cloaked entity — a single giant eye, a robe made of writhing screaming faces — standing before a stone archway inscribed "MEMORIA NECATRIX" / "OBLIVIO REGIT" ("memory the destroyer" / "oblivion reigns"), in a moonlit ruined cemetery. The Latin inscriptions give this piece explicit thematic content most of the collection's cosmic-entity pieces only imply — a meditation on mortality and being forgotten, sharpened by the mirror gesture (confronting one's own oblivion).
 
 **Verdict:** A new variant of the Rückenfigur device — using text to state its theme outright rather than leaving it to composition alone. One of the most thematically legible cosmic-horror pieces in the collection.
+
+---
+
+### 83. `ChatGPT Image Apr 30, 2025, 06_56_46 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+Two hooded figures sit cross-legged facing each other in a dark cave or tunnel, a single lit lantern between them the only source of warmth and light, swirling carved patterns on the walls behind. An intimate, minimal two-person composition — no spectacle, no scale, just a private exchange between two people.
+
+**Verdict:** Pairs with #64 (the snowy walk) as this artist's quietest, most intimate register — restraint doing real emotional work rather than being a mere palette-cleanser.
+
+---
+
+### 84. `ChatGPT Image May 8, 2025, 02_05_40 PM.png`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 3 | 5 | 4 | 3 |
+
+A chrome android reclines on a vintage red convertible in a retro garage, biting a wrench in a classic 1950s pin-up pose, glowing yellow eyes, vintage pin-up posters on the wall behind her striking the same pose. A clean, polished "video-game concept art" style distinct from the rest of the collection's painterly work. The specific staging (wrench instead of finger, matching posters on the wall) is a clever touch, but "attractive fembot pin-up" is a fairly common trope in sci-fi/concept-art circles.
+
+**Verdict:** Well-executed and cleverly staged, but the underlying trope is common enough elsewhere that it settles at Strong rather than Standout.
+
+---
+
+### 85. `ChatGPT Image May 22, 2025, 03_22_15 AM.png`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 3 | 4 | 4 | 3 |
+
+An aerial view of a turquoise river winding through a red canyon, dome settlements connected by paths, white obelisk spires, sailboats, and small ruins. The third instance of the "aerial inhabited crater/canyon world" concept (after Batch 2's #27 and this batch's #67) — the obelisks and ruins add some new specificity, but the composition and palette are close enough to #67 that the novelty has worn off.
+
+**Verdict:** Competent continuation of an idea already explored twice; doesn't bring enough new to match #67's freshness.
+
+---
+
+### 86. `ChatGPT Image May 24, 2025, 08_40_13 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 5 | 5 | 4 |
+
+A gold-linework tarot/grimoire card on black, explicitly titled "THE DEVOURING SUN": a demonic solar face with jagged teeth chewing a crescent moon and crystal shards, flame tendrils radiating outward, a silhouetted temple below, a rune-inscribed Celtic-knot border. A fourth instance of the "hostile/devouring sun" motif (#7, #24, #43, #46), but executed in a genuinely new medium — fine gold-foil engraving/tarot-card format rather than painterly digital art — and the first to name itself explicitly.
+
+**Verdict:** Earns its place in a crowded register the same way #56 and #62 did: a familiar theme rendered through a fresh, specific technique. The explicit title is a nice piece of clarity none of its predecessors had.
