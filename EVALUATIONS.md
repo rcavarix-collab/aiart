@@ -996,3 +996,80 @@ A classical oil-painting recreation of Saint George slaying the dragon: mounted 
 A classical devotional painting of Saint Patrick holding up a glowing shamrock, bishop's mitre and crozier, an Irish landscape with a Celtic cross and gathered followers. The third straight classical-religious-painting piece in this batch alone (with #68, #71) — confirms this artist spent a session specifically exploring hagiographic/devotional painting as its own mode. Competent, conventional iconography (the shamrock gesture is the canonical Saint Patrick pose) executed well.
 
 **Verdict:** Same read as #68 and #71 — strong craft in a deliberately straight classical mode; the three together confirm devotional painting as a real, if less distinctive, register for this artist.
+
+---
+
+### 73. `ChatGPT Image Apr 21, 2025, 06_17_14 PM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+A Baroque genre-painting scene by candlelight: a man grins with manic glee as he signs a scroll, surrounded by figures — an old man smirking with a peacock-feather quill, a woman holding a mirror, a jester grinning at the corner, an outstretched dramatic hand — while ghostly, half-hidden faces (one skeletal, one holding an hourglass) lurk in the shadows. Reads as a Vanitas/Faustian-bargain allegory: a man eagerly signing something away while Death, Vanity, and Folly watch. Excellent multi-figure chiaroscuro composition in a Rembrandt/Caravaggio register, with individualized expressions on every face.
+
+**Verdict:** One of the most narratively dense pieces in the collection — rewards reading each figure as a symbol. Genuine allegorical ambition executed with real technical control.
+
+---
+
+### 74. `ChatGPT Image Apr 22, 2025, 04_25_36 PM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+A three-headed Cerberus reimagined as an adorable black puppy — jeweled collars, green eyes, tongues out, a ladybug on one paw — painted in the style of a classical 17th–18th-century royal pet portrait, seated on a velvet cushion in a flowering meadow with butterflies and doves. A direct, legible subversion: the terrifying hellhound guardian of the underworld rendered as the cutest thing imaginable, forming an intentional matched pair with Batch 2's #28 (a genuinely menacing, rotting-flesh Cerberus).
+
+**Verdict:** Joins #1 and #21 as one of this artist's clearest "mythology/genre subverted through wit" pieces — and specifically, reads as a direct punchline to #28. Recommend viewing the two side by side.
+
+---
+
+### 75. `ChatGPT Image Apr 24, 2025, 05_12_25 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+A Baroque devotional scene: a man kneels in prayer before an arched shrine window, an angel pointing at it — and the "stained glass" reads, in glitched pixel text, "IDENTITY NOT FOUND." A sharp, fully legible satirical concept: bureaucratic/digital identity systems rendered as the object of religious supplication, with the 404-style error doing double duty as both a literal tech failure and an existential statement. The deliberately crude pixel text against the fine classical chiaroscuro is the whole joke, and it's perfectly judged.
+
+**Verdict:** A serious contender for best-in-collection alongside #69 and #25 — sharper and more specific in its tech-as-religion critique than either, and the cleanest visual pun in the whole collection.
+
+---
+
+### 76. `ChatGPT Image Apr 24, 2025, 05_44_04 PM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 4 | 4 |
+
+A smug businessman in a pink suit sits enthroned, fountain pen raised, a glowing green data-gauge "halo" above his head and a sensor-like dot on his forehead, a piggy bank on a globe and scattered coins at his feet, a rolled world map on his lap, an ominous robed figure lurking in the shadows behind him. A pointed satire of corporate/data-capitalism, styled as an old-master state portrait — false sainthood granted by data monetization, with what reads as a Death-adjacent figure implying the cost of the bargain.
+
+**Verdict:** Forms a clear satirical cluster with #73 (the Faustian signer) and #75 (Identity Not Found) — all three critique a modern institution (commerce, bureaucracy, data) through classical religious-painting language. Worth naming as its own thread.
+
+---
+
+### 77. `ChatGPT Image Apr 24, 2025, 06_31_44 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 4 |
+
+A Dutch Golden Age-style still life: an elaborate gothic-cathedral-spired smoking pipe, wisping smoke, arranged with a botanical herbarium book open to a cannabis-leaf illustration, a bowl of dried herb, a wooden stash box, a rolled cigarette, and black leather gloves — all lit with dramatic single-source chiaroscuro. The joke is dead serious: cannabis-culture paraphernalia rendered with the exact visual reverence of ecclesiastical relics, played completely straight.
+
+**Verdict:** A wholly original subject for this collection, executed with genuine Dutch-master material rendering (metal, velvet, smoke, paper). Another strong "elevate the unexpected through total sincerity" piece, in the lineage of #21 and #35.
+
+---
+
+## Running notes / patterns (Batch 3, continued)
+*(the main Running notes section above covers Batch 1–2; this continues it for Batch 3 onward, to keep notes near the batch they describe)*
+
+- **Batch 3 opened remarkably strong (#67–77, 11 of ~25 files reviewed).** Two major discoveries: **#69** (an illuminated-manuscript genesis myth with a genuine original written poem) is a strong candidate for best-in-collection — the first piece with real literary content, not just visual concept. **#75** ("IDENTITY NOT FOUND" rendered as stained glass, a man praying to a 404 error) is the sharpest, most specific piece of tech-critique in the whole collection, surpassing #25 in precision.
+- **A "classical devotional painting, played straight" cluster confirmed** (#68 Ascension, #71 Saint George, #72 Saint Patrick) — three pieces in one session exploring hagiographic painting with no subversion. Directly contrasts with #1's subverted use of similar genre material; useful as a controlled comparison of "homage vs. subversion" within the same visual vocabulary.
+- **A new "satirical allegory in classical dress" cluster also emerged** (#73 the Faustian-bargain signer, #75 Identity Not Found, #76 the data-capitalism businessman) — distinct from the straight-devotional cluster above: these use the same Baroque/classical visual language specifically to critique a modern institution (commerce, bureaucracy, data). Worth tracking as this artist's most pointed satirical mode yet, sharper than the earlier tech-demon (#25).
+- **#74 (Cerberus-as-puppy) is a direct, legible punchline to Batch 2's #28** (a genuinely menacing Cerberus) — recommend the two be viewed side by side as an intentional matched pair, joining #1/#21 as this artist's clearest subversion-through-cuteness/wit works.
+- **#77 (gothic-cathedral bong still life) extends the "elevate the unexpected through total sincerity" device** (#21, #35, #74) into still-life painting specifically — a new formal category for that recurring move.
+- **This stretch is the highest-density run of Standouts in the collection so far** — 9 of 11 entries in this stretch scored Standout, only the three straight-devotional pieces landing at Strong. Worth flagging to the artist directly: whatever prompting/session produced #73–77 in particular was unusually productive.
