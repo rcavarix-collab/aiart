@@ -24,7 +24,7 @@ Some images are exact or near-duplicates (a base gen + an upscale pass). Rule:
 
 Named techniques the artist reaches for across multiple pieces, tracked here so they're recognized as deliberate craft rather than re-noted as a surprise each time they appear.
 
-- **The Sublime via scale-contrast.** A vast/dangerous/cosmic subject is paired with one small, human-scaled anchor (a lone figure, a tiny boat, a leash-holder) so the viewer has a unit to measure the enormity against. Without the anchor, "big" just reads as big; with it, it reads as awe. This is the core device of the Romantic sublime (Caspar David Friedrich's *Wanderer above the Sea of Fog*, Turner), it's why Hokusai's *Great Wave* includes the boats and their crews, and it's the same grammar death-metal/black-metal album art has run with for decades (tiny robed figure, colossal indifferent thing). The artist uses it across genres, not just horror — it isn't limited to any one theme in this collection. Confirmed instances: #6 (leashed beast), #13 (sailor on mirrored sea), #18 (beach walker), #24 (skull-sun over tiny robed figures), #29 (tiny figure at the weeping tree's roots — implicit via the scattered background figures), #30 (witness figure at the moon-entity's feet), #35 (human figures on the pier below the jeweled fly). Worth watching deliberately going forward: when a colossal-subject piece lands as merely "big" rather than awe-inducing, a missing human-scale anchor is the most likely fix.
+- **The Sublime via scale-contrast.** A vast/dangerous/cosmic subject is paired with one small, human-scaled anchor (a lone figure, a tiny boat, a leash-holder) so the viewer has a unit to measure the enormity against. Without the anchor, "big" just reads as big; with it, it reads as awe. This is the core device of the Romantic sublime (Caspar David Friedrich's *Wanderer above the Sea of Fog*, Turner), it's why Hokusai's *Great Wave* includes the boats and their crews, and it's the same grammar death-metal/black-metal album art has run with for decades (tiny robed figure, colossal indifferent thing). The artist uses it across genres, not just horror — it isn't limited to any one theme in this collection. Confirmed instances: #6 (leashed beast), #13 (sailor on mirrored sea), #18 (beach walker), #24 (skull-sun over tiny robed figures), #29 (tiny figure at the weeping tree's roots — implicit via the scattered background figures), #30 (witness figure at the moon-entity's feet), #35 (human figures on the pier below the jeweled fly), #46 (robed figure on the skull-sun's lava path), #52 (a winged figure, back turned, facing a spiral galaxy — the collection's purest *Rückenfigur*, the exact compositional grammar of Friedrich's own work; reference example for this device). Worth watching deliberately going forward: when a colossal-subject piece lands as merely "big" rather than awe-inducing, a missing human-scale anchor is the most likely fix.
 
 ## Batch context
 
@@ -646,6 +646,58 @@ A dark, dying reddish star rendered in a restrained, near-photorealistic astroph
 
 ---
 
+### 49. `UniversalUpscaler_0bb9ca3a-c496-417e-a11b-1761711f22a0.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A forest of towering fractal trees, their canopies made of glowing spiral fern-fronds with small embedded galaxy-spirals, warm sunset light glowing between them, a Milky Way band overhead, ordinary-scale trees and bushes in the foreground for contrast. Applies the fractal-symmetry aesthetic seen in the decorative-mandala cluster (#8, #37, etc.) to an actual landscape/ecosystem rather than a centered decoration, which gives it real worldbuilding value the pure mandala pieces lack, plus a clean use of the scale-contrast device via the foreground trees.
+
+**Verdict:** The strongest "fractal" piece in the collection so far — elevated above the decorative cluster by becoming a place rather than a pattern.
+
+---
+
+### 50. `UniversalUpscaler_2dcce632-f877-461d-b32a-398d59f2cd1c.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A perfectly bilaterally symmetric horned dragon/demon figure in near-monochrome (black, white, dark green), wings textured with fine lace-like webbing and circular fractal motifs, backlit by a bright central light, standing over dark rocky spires. The strict heraldic symmetry and restrained palette give it an "idol" or "religious icon" quality distinct from the collection's more dynamic, scenic dragon and demon pieces — reads as something to be worshipped rather than something caught mid-action.
+
+**Verdict:** A distinct compositional mode (icon/heraldry vs. scene) worth recognizing as its own move, separate from the narrative creature pieces.
+
+---
+
+### 51. `UniversalUpscaler_322a7420-771f-483c-9adc-c397c50f9f52.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 4 | 5 | 5 | 5 |
+
+A colossal bio-mechanical space-whale/serpent — a segmented hull-like body with riveted mechanical plating and glowing amber portholes along its flanks, transitioning into trailing, bioluminescent, feather-like fin appendages made of fine glowing filaments, cruising above a planet's atmosphere. A genuinely original fusion (living creature and starship as the same entity) that extends the "invented xenobiology" thread (#19, #36) into a new, colossal, part-technological register.
+
+**Verdict:** One of the strongest pieces in the collection to date — the mechanical-to-organic transition across the body is handled with real control, and the concept (a creature that is also a vessel) is something nothing else in the collection has attempted.
+
+---
+
+### 52. `UniversalUpscaler_391b252e-18b4-46e3-a4c4-147a6a71fa6b.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 5 | 5 | 5 |
+
+A winged skeletal figure stands with its back to the viewer atop a jagged, lava-veined spire, wings spread, arms outstretched toward a massive spiral galaxy filling the sky. This is the collection's most literal example yet of the Romantic-sublime device named earlier — the *Rückenfigur* (a figure seen from behind, gazing at something vast), the exact compositional grammar of Caspar David Friedrich's work, rather than just a small-figure-for-scale variant.
+
+**Verdict:** The purest textbook execution of "the Sublime via scale-contrast" logged so far — worth using as the reference example of that device going forward.
+
+---
+
 ## Running notes / patterns
 *(updated as the collection grows)*
 
@@ -672,3 +724,4 @@ A dark, dying reddish star rendered in a restrained, near-photorealistic astroph
 
 - **Batch 2, first 7 entries logged (#37–43) of ~15 new images.** Two notable "revisited idea" pairs surfaced, distinct from the duplicate/upscale case: **the weeping tree** (#41 vs. Batch 1's #29) and **the skull-sun** (#43 vs. Batch 1's #24) — same core metaphor explored twice, both times excellently, confirming these aren't one-off ideas but genuine recurring interests worth naming (grief-as-last-water, and death-replacing-the-sun). A **paper-cut medium series** also emerged for the first time (#38 and its superseded near-duplicate, #40) — a third distinct craft technique alongside the "grimoire/etched-plate" series (#7, #25) and standard digital painting, and the first entries in the collection with a genuinely triumphant/optimistic register rather than dread, serenity, or awe. The fourth bat-demon variant (#42) is the first case of a well-worn archetype visibly running out of room — still Strong, but a signal that this specific sub-genre may be approaching its ceiling within the collection.
 - **Batch 2 DALL·E/ChatGPT files complete (#37–48).** The "skull-sun" idea turned out to have a **third** instance (#46), confirming it as a genuine mini-series (like the bat-demon cluster) rather than a pair — and #46 may be the most refined single execution of the idea in the whole collection, worth leading with if only one skull-sun makes a shortlist. Two more pieces of real range surfaced: #44 (a spacecraft rendered as Chinese blue-and-white porcelain) pairs with #35 as a second "specific real decorative-art tradition applied to an unexpected subject" piece — worth naming as its own thread if a third example ever shows up. #48 (a restrained, near-photorealistic dying-star image) joins #14 as further proof this artist's quiet, minimal register is just as strong as the maximalist creature work, not a lesser mode. #45 (silverfish/undead hybrid) is the batch's one clear "good craft, no discipline" entry — a useful contrast case for what separates a Strong monster piece from a Standout one (compare its cluttered palette/composition to #19's or #36's restraint).
+- **Now into Batch 2's `UniversalUpscaler_*` files.** #51 (a bio-mechanical space-whale trailing bioluminescent fin-trails) extends the "invented xenobiology" thread (#19, #36) into a colossal, part-technological register — likely a top-tier entry. #52 gives the collection's purest example yet of **the Sublime via scale-contrast**: a winged skeletal figure, back turned to the viewer, arms outstretched toward a spiral galaxy — this is the literal Rückenfigur composition (figure-with-back-turned-facing-the-vastness) that defines Caspar David Friedrich's work, not just a small-anchor-for-scale variant like most of the collection's other instances. Worth citing directly the next time the sublime device comes up in discussion, since it's the clearest textbook example logged so far.
