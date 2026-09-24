@@ -750,6 +750,71 @@ A recursive fractal composition: a black hole's spiral event horizon on one side
 
 ---
 
+### 57. `UniversalUpscaler_97b86064-761b-4a5d-8a62-019b12a98654.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 2 | 5 | 5 | 4 |
+
+A circular fisheye-lens view into an ornate Victorian glass conservatory filled with vividly saturated alien-looking pom-pom flowers, spiky agave, and coral-like shrubs at sunset. The circular/fisheye framing device is a presentation choice not used elsewhere in the collection, and the color palette is vivid and well-imagined, but it's ultimately a beautiful garden with no narrative beyond its own prettiness.
+
+**Verdict:** The framing device and saturation carry it well past generic, but it's decorative rather than conceptual — Strong, not Standout.
+
+---
+
+### 58. `UniversalUpscaler_9b7d5d0b-13eb-4fa8-ac01-7fc454e78c5a.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+A coven of hooded cosmic sorcerers arranged in a ring on a volcanic peak, hands raised, channeling energy toward a blazing star at the center, more robed figures gathered below, spiral galaxies swirling overhead. Unlike the collection's many *passive* Rückenfigur/witness compositions, this is an *active* ritual scene — the robed figures aren't beholding the cosmos, they're making it. A clear creation-myth narrative with genuine mythic scale.
+
+**Verdict:** One of the strongest pieces in Batch 2 — the coven's active participation (rather than passive awe) is a meaningful variation on this artist's cosmic-ritual interests, and the execution across many individually detailed figures is excellent.
+
+---
+
+### 59. `UniversalUpscaler_9dad30ef-9785-40c8-b31b-36c99b9d5b64.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 3 |
+
+A realist misty river-and-sunrise landscape, silhouetted trees, calm reflective water, and a small hint of glowing blue motes tucked into the foreground bushes. Genuinely excellent atmospheric-perspective painting technique, but "misty lake at sunrise" is one of the most common landscape-painting subjects there is, and the one fantasy touch (the glowing motes) is too subtle to do much distinctive work on its own.
+
+**Verdict:** Beautiful craft in a very well-trodden landscape genre — compare to #14 or #48, which paired similar restraint with a more specific or unusual subject.
+
+---
+
+### 60. `UniversalUpscaler_9df5e4c9-d183-4b81-b277-7d08500a18b7.jpg`
+**Tier: Solid-but-crowded**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 1 | 4 | 4 | 3 |
+
+An underworld cave environment: blood-red mineral stalactites dripping from the ceiling, scattered glowing embers, a river of molten light below. No creature, figure, or focal subject — a pure mood/atmosphere piece, and a fairly familiar "lava cave" fantasy environment at that.
+
+**Verdict:** Competent environmental painting, but without a subject or idea to anchor it, it reads as background art rather than a piece in its own right.
+
+---
+
+### 61. `UniversalUpscaler_afce7dd4-1a84-41ef-9426-2841a1444365.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 5 | 5 | 4 |
+
+Five jellyfish-like spectral beings, trailing long hair-like light filaments, arranged symmetrically around a massive glowing red sun/planet, viewed through an ornate stone gothic archway, a ruined pillared avenue leading toward the light below. Combines several of this artist's established devices — the jellyfish/spectral-entity motif (#39), the colossal-celestial-body register, and a literal architectural frame recalling #7's grimoire-plate presentation — into a ritualistic "attendants before a sun-deity" scene.
+
+**Verdict:** A confident synthesis of several of this artist's recurring interests into one coherent, ritualistic image — reads as a genuine "vision glimpsed through a window," not just a creature portrait.
+
+---
+
 ## Running notes / patterns
 *(updated as the collection grows)*
 
@@ -778,3 +843,4 @@ A recursive fractal composition: a black hole's spiral event horizon on one side
 - **Batch 2 DALL·E/ChatGPT files complete (#37–48).** The "skull-sun" idea turned out to have a **third** instance (#46), confirming it as a genuine mini-series (like the bat-demon cluster) rather than a pair — and #46 may be the most refined single execution of the idea in the whole collection, worth leading with if only one skull-sun makes a shortlist. Two more pieces of real range surfaced: #44 (a spacecraft rendered as Chinese blue-and-white porcelain) pairs with #35 as a second "specific real decorative-art tradition applied to an unexpected subject" piece — worth naming as its own thread if a third example ever shows up. #48 (a restrained, near-photorealistic dying-star image) joins #14 as further proof this artist's quiet, minimal register is just as strong as the maximalist creature work, not a lesser mode. #45 (silverfish/undead hybrid) is the batch's one clear "good craft, no discipline" entry — a useful contrast case for what separates a Strong monster piece from a Standout one (compare its cluttered palette/composition to #19's or #36's restraint).
 - **Now into Batch 2's `UniversalUpscaler_*` files.** #51 (a bio-mechanical space-whale trailing bioluminescent fin-trails) extends the "invented xenobiology" thread (#19, #36) into a colossal, part-technological register — likely a top-tier entry. #52 gives the collection's purest example yet of **the Sublime via scale-contrast**: a winged skeletal figure, back turned to the viewer, arms outstretched toward a spiral galaxy — this is the literal Rückenfigur composition (figure-with-back-turned-facing-the-vastness) that defines Caspar David Friedrich's work, not just a small-anchor-for-scale variant like most of the collection's other instances. Worth citing directly the next time the sublime device comes up in discussion, since it's the clearest textbook example logged so far.
 - **The bat/dragon skeletal-demon archetype hit its ceiling at #53.** Sixth close variant of the same core piece (Batch 1's #2, #3, #31; Batch 2's #42, #53), and this one brought no new specific idea the way #42's asymmetric wing did — first entry in that archetype scored down to Strong purely for repetition rather than for any execution flaw. A second *Rückenfigur* also appeared (#54, a cloaked figure before a runic portal) — added to the Recurring devices list. And the "colossal cosmic entity" register gained two more genuinely distinct entries (#55's literal cosmic-web-as-creature, #56's black-hole/tree-of-life fractal) that earn their place by bringing a specific new idea rather than just repeating the register's general vastness — useful contrast with #53's failure to do the same within its own archetype.
+- **New device spotted: active cosmic ritual vs. passive cosmic witness.** #58 (a coven of sorcerers actively channeling power to create a star) is a meaningfully different move from this collection's many Rückenfigur/witness pieces — the figures aren't beholding the vastness, they're making it. Worth tracking as a second, related-but-distinct device alongside the Sublime-via-scale-contrast entries. #61 synthesizes several established devices (jellyfish/spectral-entity motif from #39, colossal-celestial-body register, grimoire-plate-style architectural framing from #7) into one coherent scene — a good example of this artist combining established moves rather than only inventing new ones. #59 and #60 are this stretch's "competent but generic" entries — useful reminders that pure atmosphere/mood, without a specific subject or idea anchoring it, caps out at Strong or below even with excellent technique.
