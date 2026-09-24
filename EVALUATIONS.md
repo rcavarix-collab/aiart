@@ -916,3 +916,83 @@ A colossal ram-horned skull deity, exposed glowing ribcage with a vertical blue 
   - **New devices formalized**: active cosmic ritual (#58, coven creating a star — distinct from passive Rückenfigur witnessing) and confirmed multiple Rückenfigur instances (#52, #54) cementing that device's centrality to this artist's cosmic-scale work.
   - **Range confirmed further**: #64 (impasto companionship scene, pairing with #18) shows warmth/togetherness as a viable register alongside solitude and dread; #59/#60/#63/#65 are this batch's "competent but generic" entries, useful as calibration points for what execution alone cannot lift into Standout.
   - **Updated top-of-collection candidates after two batches**: #29 (weeping tree) and #25 (tech-demon) remain the strongest emotional/conceptual pieces from Batch 1; from Batch 2, #51 (bio-mechanical space-whale), #58 (star-creation ritual), and #52 (the purest Rückenfigur) are the strongest new additions to that tier.
+
+---
+
+## Batch 3
+
+### 67. `ChatGPT Image Apr 14, 2025, 11_03_39 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 4 | 4 | 4 |
+
+An aerial "map" view of an inhabited crater-lagoon world: a turquoise lake in a red crater, winding golden paths connecting dome-shaped settlements, cultivated farmland plots, forests, and a giant hollow tree stump landmark. Shares the aerial-crater-lagoon subject with Batch 2's #27, but where #27 was about visual novelty (the polka-dot islands), this one functions as genuine worldbuilding cartography — an inhabited, living landscape with infrastructure, not just a striking composition.
+
+**Verdict:** A fresh angle on a subject already explored once — worth reading as a companion to #27 rather than a repeat, since the "world map" function is a different achievement than #27's pure composition.
+
+---
+
+### 68. `ChatGPT Image Apr 16, 2025, 07_31_37 AM.png`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 2 | 5 | 5 | 3 |
+
+A classical Baroque-style Ascension: a Christ-like figure rising into a golden halo of light, angels reaching toward him, robed figures kneeling on a curved earth below, a starry cosmic sky. A genuinely new register for this collection — straight devotional/classical religious painting, technically excellent — but played completely straight with no subversion, unlike #1's use of a comparable classical genre.
+
+**Verdict:** Excellent pastiche of a canonical art-historical subject; worth reading directly against #1 (see running notes) for what subversion adds that straight recreation doesn't.
+
+---
+
+### 69. `ChatGPT Image Apr 16, 2025, 07_42_10 AM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 5 | 5 | 5 | 5 |
+
+An illuminated-manuscript plate: a small seedling sprouts under descending light rays on a barren red world, mushrooms and gentle isopod-like creatures gathered around it, framed in an ornate gold border with small vignette icons (egg, spiral, tree, droplet). Below the image, a fully legible original poem: *"In silence the world waited / and lo, the breath descended: / not in thunder, but in spore and stem... / and from the stillness, life arose."* The third confirmed instance of the "grimoire/illuminated-plate" series (#7, #25) — but the first to include genuine original written text, and a direct thematic inversion of this artist's dominant apocalyptic-celestial-body register: a quiet genesis myth instead of a dying world.
+
+**Verdict:** Likely the single strongest piece in the collection to date. Legible long-form AI-generated text is a real technical achievement on its own; paired with a genuinely well-composed, thematically rich poem and the humblest possible cast of witnesses (isopods, not gods), it's the most complete fusion of concept, craft, and emotional intent logged so far. A serious contender to displace #29 as the collection's best.
+
+---
+
+### 70. `ChatGPT Image Apr 19, 2025, 04_46_08 PM.png`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 4 | 5 | 5 | 5 |
+
+An astronaut (back turned — another *Rückenfigur*) stands on a dusty red planet facing a colossal approaching dust storm shot through with lightning, an eroded canyon behind, warm dust-filtered light. A grounded, realistic-sci-fi variant of the Rückenfigur device, distinct from the collection's fantasy/cosmic instances (#52, #54) — cinematic, restrained, and genuinely tense.
+
+**Verdict:** Extends the sublime-via-scale-contrast device into a new genre register (hard sci-fi rather than fantasy) with real craft — one of the more purely cinematic pieces in the collection.
+
+---
+
+### 71. `ChatGPT Image Apr 19, 2025, 06_37_25 AM.png`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 3 |
+
+A classical oil-painting recreation of Saint George slaying the dragon: mounted knight on a rearing white horse, spear through a serpentine dragon's jaw, castle and onlookers behind. One of the most reproduced compositions in Western art history, played completely straight — technically excellent, but conceptually inert next to #1, which uses the same general "heroic equestrian genre painting" register but subverts it.
+
+**Verdict:** Best read as a direct contrast case with #1 — same genre vocabulary, opposite approach (homage vs. subversion), and a clear illustration of why the subversion scores higher.
+
+---
+
+### 72. `ChatGPT Image Apr 19, 2025, 06_47_05 AM.png`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 3 |
+
+A classical devotional painting of Saint Patrick holding up a glowing shamrock, bishop's mitre and crozier, an Irish landscape with a Celtic cross and gathered followers. The third straight classical-religious-painting piece in this batch alone (with #68, #71) — confirms this artist spent a session specifically exploring hagiographic/devotional painting as its own mode. Competent, conventional iconography (the shamrock gesture is the canonical Saint Patrick pose) executed well.
+
+**Verdict:** Same read as #68 and #71 — strong craft in a deliberately straight classical mode; the three together confirm devotional painting as a real, if less distinctive, register for this artist.
