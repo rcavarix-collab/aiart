@@ -815,6 +815,71 @@ Five jellyfish-like spectral beings, trailing long hair-like light filaments, ar
 
 ---
 
+### 62. `UniversalUpscaler_b6067b34-02ff-4887-aff9-669dd8d7a22e.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 5 | 3 | 5 | 5 | 4 |
+
+A spiraling galaxy and cluster of detailed planets rendered as a gold-leaded stained-glass window, framed within additional smaller stained-glass panels. A third confirmed instance (after #35's jeweled fly and #44's porcelain spacecraft) of this artist applying a specific real decorative-art tradition — here, cathedral stained glass — to a fantastical subject rather than generic "shiny/jeweled" treatment.
+
+**Verdict:** Confirms "real craft tradition applied to an unexpected subject" as a genuine three-instance thread, not a coincidence — worth naming explicitly going forward.
+
+---
+
+### 63. `UniversalUpscaler_b65a3a07-b061-4b54-86cc-4618d98292a1.jpg`
+**Tier: Solid-but-crowded**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 2 | 2 | 5 | 5 | 3 |
+
+A fluffy long-haired cat with a jeweled third-eye mark, seated in meditation pose against a radiating lotus-mandala backdrop, its fur patterned with henna-like paisley designs in pastel purple/teal. Well executed, but "mystical spirit-animal mandala" is one of the most common motifs in decorative/poster art specifically (Etsy prints, tarot-adjacent art), on par with how oversaturated "macro eye" or "cosmic fractal mandala" are within AI art broadly.
+
+**Verdict:** Charming and skillfully rendered, but working an extremely well-trodden decorative-print genre — same read as the earlier oversaturated-archetype pieces.
+
+---
+
+### 64. `UniversalUpscaler_c7245143-66e2-4422-969a-e9d2bb94b8a1.jpg`
+**Tier: Standout**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 4 | 3 | 5 | 5 | 4 |
+
+A thick-impasto impressionist winter scene: two figures walking arm in arm down a snow-covered path toward a warm glowing light, more distant figures ahead, snow falling through bare and autumn-colored trees. Pairs with #18 as a second strong impasto-brushwork piece, but shifts the emotional register from #18's quiet solitude to warmth and companionship — the first clear instance of "two figures together" rather than this artist's usual solitary-figure staging.
+
+**Verdict:** A lovely, cozy counterpoint to the collection's dominant solitary/awe-driven figure work — good evidence of range within the impasto-painting mode specifically.
+
+---
+
+### 65. `UniversalUpscaler_ca7bcf03-4a44-4ee5-8011-0ba78b851f92.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 2 | 2 | 5 | 5 | 3 |
+
+An androgynous, white-haired archangel in ornate gold-and-blue filigree armor, haloed, multicolored feathered wings spread, holding a glowing staff amid a swirling cosmic nebula. Beautifully rendered, but "beautiful winged celestial warrior with halo and staff" is one of the most common character archetypes in fantasy art — comparable in familiarity to #12's dragon or #28's Cerberus.
+
+**Verdict:** Strong craft in very well-trodden mythological-character territory; execution alone can't lift a completely familiar archetype to Standout.
+
+---
+
+### 66. `UniversalUpscaler_d87653d9-073b-4ee5-9af5-f8bf903f4d51.jpg`
+**Tier: Strong**
+
+| Distinctiveness | Concept/Wit | Execution | Style cohesion | Gut-punch |
+|---|---|---|---|---|
+| 3 | 2 | 5 | 5 | 4 |
+
+A colossal ram-horned skull deity, exposed glowing ribcage with a vertical blue energy beam running through its spine into a lightning-lashed mountain valley, small occult sigils in each corner evoking an actual album-cover layout. A second instance of #50's "heraldic icon with corner sigils" presentation device, but the glowing-ribcage-skull-deity content itself is now one of the most repeated motifs in the whole collection (at minimum #2, #3, #24, #25, #31, #42, #43, #46, #53 all share some version of it).
+
+**Verdict:** Excellent album-cover-style execution, but needs the icon-format's freshness to do more work than it does here — the content itself is too familiar within this artist's own catalogue at this point to clear Standout on execution alone.
+
+---
+
 ## Running notes / patterns
 *(updated as the collection grows)*
 
@@ -844,3 +909,10 @@ Five jellyfish-like spectral beings, trailing long hair-like light filaments, ar
 - **Now into Batch 2's `UniversalUpscaler_*` files.** #51 (a bio-mechanical space-whale trailing bioluminescent fin-trails) extends the "invented xenobiology" thread (#19, #36) into a colossal, part-technological register — likely a top-tier entry. #52 gives the collection's purest example yet of **the Sublime via scale-contrast**: a winged skeletal figure, back turned to the viewer, arms outstretched toward a spiral galaxy — this is the literal Rückenfigur composition (figure-with-back-turned-facing-the-vastness) that defines Caspar David Friedrich's work, not just a small-anchor-for-scale variant like most of the collection's other instances. Worth citing directly the next time the sublime device comes up in discussion, since it's the clearest textbook example logged so far.
 - **The bat/dragon skeletal-demon archetype hit its ceiling at #53.** Sixth close variant of the same core piece (Batch 1's #2, #3, #31; Batch 2's #42, #53), and this one brought no new specific idea the way #42's asymmetric wing did — first entry in that archetype scored down to Strong purely for repetition rather than for any execution flaw. A second *Rückenfigur* also appeared (#54, a cloaked figure before a runic portal) — added to the Recurring devices list. And the "colossal cosmic entity" register gained two more genuinely distinct entries (#55's literal cosmic-web-as-creature, #56's black-hole/tree-of-life fractal) that earn their place by bringing a specific new idea rather than just repeating the register's general vastness — useful contrast with #53's failure to do the same within its own archetype.
 - **New device spotted: active cosmic ritual vs. passive cosmic witness.** #58 (a coven of sorcerers actively channeling power to create a star) is a meaningfully different move from this collection's many Rückenfigur/witness pieces — the figures aren't beholding the vastness, they're making it. Worth tracking as a second, related-but-distinct device alongside the Sublime-via-scale-contrast entries. #61 synthesizes several established devices (jellyfish/spectral-entity motif from #39, colossal-celestial-body register, grimoire-plate-style architectural framing from #7) into one coherent scene — a good example of this artist combining established moves rather than only inventing new ones. #59 and #60 are this stretch's "competent but generic" entries — useful reminders that pure atmosphere/mood, without a specific subject or idea anchoring it, caps out at Strong or below even with excellent technique.
+
+- **Batch 2 complete: 30 entries logged across 31 files (#37–66)** — one pair of near-identical paper-cut rocket launches merged into a single entry (#38) per the duplicate-handling rule, so 67 total files across both batches now correspond to exactly 66 log entries. Headline results for Batch 2:
+  - **"Real craft tradition applied to a fantastical subject" confirmed as a genuine 3-instance thread**: #35 (jeweled fly, Batch 1), #44 (porcelain spacecraft), #62 (stained-glass cosmos). Distinct from generic "shiny/jeweled" decoration — each references a specific real decorative-art tradition (gem/enamel work, blue-and-white porcelain, leaded stained glass) and applies it with real technical fluency in that tradition, not just surface texture.
+  - **The exposed-glowing-ribcage/skull-deity motif is now the single most repeated element in the entire collection** (present in some form across at least #2, #3, #24, #25, #31, #42, #43, #46, #53, #66 — 10 instances across both batches). It is no longer read as a distinguishing feature on its own; pieces built around it now need a genuinely new specific idea (an asymmetric wing, a heraldic icon format, a new environment) to clear Strong into Standout, per #53 and #66's scoring this batch.
+  - **New devices formalized**: active cosmic ritual (#58, coven creating a star — distinct from passive Rückenfigur witnessing) and confirmed multiple Rückenfigur instances (#52, #54) cementing that device's centrality to this artist's cosmic-scale work.
+  - **Range confirmed further**: #64 (impasto companionship scene, pairing with #18) shows warmth/togetherness as a viable register alongside solitude and dread; #59/#60/#63/#65 are this batch's "competent but generic" entries, useful as calibration points for what execution alone cannot lift into Standout.
+  - **Updated top-of-collection candidates after two batches**: #29 (weeping tree) and #25 (tech-demon) remain the strongest emotional/conceptual pieces from Batch 1; from Batch 2, #51 (bio-mechanical space-whale), #58 (star-creation ritual), and #52 (the purest Rückenfigur) are the strongest new additions to that tier.
